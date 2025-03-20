@@ -1,0 +1,1346 @@
+	<msg id="skill0001" cont="Flash Draw"/>
+		<msg id="skill0002" cont="Impact Stab"/>
+		<msg id="skill0003" cont="Power Stab"/>
+		<msg id="skill0004" cont="Stab Slash"/>
+		<msg id="skill0005" cont="Force Stab"/>
+		<msg id="skill0006" cont="Raging Thrust"/>
+		<msg id="skill0007" cont="Death Cross"/>
+		<msg id="skill0008" cont="Wild Strike"/>
+		<msg id="skill0009" cont="Illusion Stab"/>
+		<msg id="skill0010" cont="Heavy Slash"/>
+		<msg id="skill0011" cont="Power Slash"/>
+		<msg id="skill0012" cont="Press Impact"/>
+		<msg id="skill0013" cont="Slash Break"/>
+		<msg id="skill0014" cont="Rolling Crash"/>
+		<msg id="skill0015" cont="Guillotine"/>
+		<msg id="skill0016" cont="Double Slash"/>
+		<msg id="skill0017" cont="Force Slash"/>
+		<msg id="skill0018" cont="Triple Slash"/>
+		<msg id="skill0019" cont="Force Break"/>
+		<msg id="skill0020" cont="Hasing Dance"/>
+		<msg id="skill0021" cont="Force Drive"/>
+		<msg id="skill0022" cont="Rising Shot"/>
+		<msg id="skill0023" cont="Rising Blade"/>
+		<msg id="skill0024" cont="Double Rising"/>
+		<msg id="skill0025" cont="Soaring Shot"/>
+		<msg id="skill0026" cont="Cascade Break"/>
+		<msg id="skill0027" cont="Storm Grind"/>
+		<msg id="skill0028" cont="Earth Divide"/>
+		<msg id="skill0029" cont="Dance of Ruin"/>
+		<msg id="skill0030" cont="Charge"/>
+		<msg id="skill0031" cont="Assault"/>
+		<msg id="skill0032" cont="Shield Charge"/>
+		<msg id="skill0033" cont="Force Assault"/>
+		<msg id="skill0034" cont="Whirlwind"/>
+		<msg id="skill0035" cont="Blade Scud"/>
+		<msg id="skill0036" cont="Shield Break"/>
+		<msg id="skill0037" cont="Infernal Impact"/>
+		<msg id="skill0038" cont="Round Cut"/>
+		<msg id="skill0039" cont="Spiral Doom"/>
+		<msg id="skill0040" cont="Mirage Grind"/>
+		<msg id="skill0041" cont="Storm Crush"/>
+		<msg id="skill0042" cont="Infernal Stigma"/>
+		<msg id="skill0043" cont="Sword Cannon"/>
+		<msg id="skill0044" cont="Twin-moon Slash"/>
+		<msg id="skill0045" cont="Shield Ray"/>
+		<msg id="skill0046" cont="Abyssal Crystal"/>
+		<msg id="skill0047" cont="Sword Cannon II"/>
+		<msg id="skill0048" cont="Twin-moon Slash II"/>
+		<msg id="skill0049" cont="Shield Ray II"/>
+		<msg id="skill0050" cont="Abyssal Crystal II"/>
+		<msg id="skill0051" cont="Terra Break"/>
+		<msg id="skill0052" cont="Blade Cry"/>
+		<msg id="skill0053" cont="Shield Explosion"/>
+		<msg id="skill0054" cont="Force Impact"/>
+		<msg id="skill0055" cont="Seismic Wave"/>
+		<msg id="skill0056" cont="Lightning Slash"/>
+		<msg id="skill0057" cont="Shield Splinter"/>
+		<msg id="skill0058" cont="Assassinate"/>
+		<msg id="skill0059" cont="Restraint2WA"/>
+		<msg id="skill0060" cont="Restraint2BL"/>
+		<msg id="skill0061" cont="Restraint2FS"/>
+		<msg id="skill0062" cont="Restraint2FB"/>
+		<msg id="skill0063" cont="Sword Quake"/>
+		<msg id="skill0064" cont="Death Tempest"/>
+		<msg id="skill0065" cont="Shield Grenade"/>
+		<msg id="skill0066" cont="Seal of Damnation"/>
+		<msg id="skill0067" cont="Bow Slash"/>
+		<msg id="skill0068" cont="Force Kick"/>
+		<msg id="skill0069" cont="Throw Knife"/>
+		<msg id="skill0070" cont="Vital Interfere"/>
+		<msg id="skill0071" cont="Provocation"/>
+		<msg id="skill0072" cont="Apocalypse Decision"/>
+		<msg id="skill0073" cont="Infinity Blaze"/>
+		<msg id="skill0074" cont="Hell Crasher"/>
+		<msg id="skill0075" cont="Quake Cataclysm"/>
+		<msg id="skill0076" cont="Crescent Slash"/>
+		<msg id="skill0077" cont="Heavy Crush"/>
+		<msg id="skill0078" cont="Waving Slash"/>
+		<msg id="skill0079" cont="Reverse Step"/>
+		<msg id="skill0080" cont="Moonlight Smash"/>
+		<msg id="skill0081" cont="Moon Rising"/>
+		<msg id="skill0082" cont="Cross on Earth"/>
+		<msg id="skill0083" cont="Storm Slash"/>
+		<msg id="skill0084" cont="Shadow Step"/>
+		<msg id="skill0085" cont="Rapid Dash"/>
+		<msg id="skill0086" cont="Moon Strike"/>
+		<msg id="skill0087" cont="Fadeaway"/>
+		<msg id="skill0088" cont="Mystic Dash"/>
+		<msg id="skill0089" cont="Eternal Slash"/>
+		<msg id="skill0090" cont="Trinity Slash"/>
+		<msg id="skill0091" cont="Rising Storm"/>
+		<msg id="skill0092" cont="Chakram Break"/>
+		<msg id="skill0093" cont="Blade of Fury"/>
+		<msg id="skill0094" cont="Chakram Tornado"/>
+		<msg id="skill0095" cont="Freezing Strike"/>
+		<msg id="skill0096" cont="Momentary Illumination"/>
+		<msg id="skill0097" cont="Crimson Blade"/>
+		<msg id="skill0098" cont="Illusion Blade"/>
+		<msg id="skill0099" cont="Lightning Revenge"/>
+		<msg id="skill0100" cont="Magic Arrow"/>
+		<msg id="skill0101" cont="Terra Arrow"/>
+		<msg id="skill0102" cont="Aqua Arrow"/>
+		<msg id="skill0103" cont="Wind Arrow"/>
+		<msg id="skill0104" cont="Fire Arrow"/>
+		<msg id="skill0105" cont="Freezing Arrow"/>
+		<msg id="skill0106" cont="Lightning Arrow"/>
+		<msg id="skill0107" cont="Magic Blast"/>
+		<msg id="skill0108" cont="Stone Blast"/>
+		<msg id="skill0109" cont="Aqua Blast"/>
+		<msg id="skill0110" cont="Wind Blast"/>
+		<msg id="skill0111" cont="Fire Blast"/>
+		<msg id="skill0112" cont="Ice Blast"/>
+		<msg id="skill0113" cont="Lightning Blast"/>
+		<msg id="skill0114" cont="Magic Lance"/>
+		<msg id="skill0115" cont="Terra Lance"/>
+		<msg id="skill0116" cont="Aqua Lance"/>
+		<msg id="skill0117" cont="Wind Lance"/>
+		<msg id="skill0118" cont="Fire Lance"/>
+		<msg id="skill0119" cont="Freezing Lance"/>
+		<msg id="skill0120" cont="Lightning Lance"/>
+		<msg id="skill0121" cont="Magic Cannon"/>
+		<msg id="skill0122" cont="Stone Cannon"/>
+		<msg id="skill0123" cont="Aqua Cannon"/>
+		<msg id="skill0124" cont="Wind Cannon"/>
+		<msg id="skill0125" cont="Fire Cannon"/>
+		<msg id="skill0126" cont="Crystal Cannon"/>
+		<msg id="skill0127" cont="Lightning Cannon"/>
+		<msg id="skill0128" cont="Burning Hand"/>
+		<msg id="skill0129" cont="Freeze"/>
+		<msg id="skill0130" cont="Dig Bomb"/>
+		<msg id="skill0131" cont="Icicle Shower"/>
+		<msg id="skill0132" cont="Wind Cutter"/>
+		<msg id="skill0133" cont="Hydro Disk"/>
+		<msg id="skill0134" cont="Lightning Strike"/>
+		<msg id="skill0135" cont="Acid Trap"/>
+		<msg id="skill0136" cont="Vacuum"/>
+		<msg id="skill0137" cont="Chain Explosion"/>
+		<msg id="skill0138" cont="Hail Storm"/>
+		<msg id="skill0139" cont="Extreme Dual Cannon"/>
+		<msg id="skill0140" cont="Arctic Field"/>
+		<msg id="skill0141" cont="Space Collapse"/>
+		<msg id="skill0142" cont="Restraint1WI"/>
+		<msg id="skill0143" cont="Restraint2WI"/>
+		<msg id="skill0144" cont="Immortality(QA)"/>
+		<msg id="skill0145" cont="Sureside(QA)"/>
+		<msg id="skill0146" cont="Power Word Kill(QA)"/>
+		<msg id="skill0147" cont="Pury of Heaven(QA)"/>
+		<msg id="skill0148" cont="Power Shot"/>
+		<msg id="skill0149" cont="Critical Shot"/>
+		<msg id="skill0150" cont="Explosion Shot"/>
+		<msg id="skill0151" cont="Poison Arrow"/>
+		<msg id="skill0152" cont="Shadow Shot"/>
+		<msg id="skill0153" cont="Drilled Shot"/>
+		<msg id="skill0154" cont="Prismatic Arrow"/>
+		<msg id="skill0155" cont="Gravity Distortion"/>
+		<msg id="skill0156" cont="Shooting Star"/>
+		<msg id="skill0157" cont="Shield Shock"/>
+		<msg id="skill0158" cont="Flying Shield"/>
+		<msg id="skill0159" cont="Blade of Judgement"/>
+		<msg id="skill0160" cont="Restraint1FA"/>
+		<msg id="skill0161" cont="Restraint2FA"/>
+		<msg id="skill0162" cont="FB Magic 5"/>
+		<msg id="skill0163" cont="FB Magic 7"/>
+		<msg id="skill0164" cont="FB Magic 9"/>
+		<msg id="skill0165" cont="FS Magic 7"/>
+		<msg id="skill0166" cont="FS Magic 9"/>
+		<msg id="skill0167" cont="Meteorite"/>
+		<msg id="skill0168" cont="Sonic Shooter"/>
+		<msg id="skill0169" cont="Glacial Trap"/>
+		<msg id="skill0170" cont="Arrow Barrage"/>
+		<msg id="skill0171" cont="Genocider"/>
+		<msg id="skill0172" cont="Genocider Attack A"/>
+		<msg id="skill0173" cont="Genocider Attack B"/>
+		<msg id="skill0174" cont="Genocider Specialty Stage 1"/>
+		<msg id="skill0175" cont="Genocider Specialty Stage 2"/>
+		<msg id="skill0176" cont="Genocider Specialty Stage 3"/>
+		<msg id="skill0177" cont="Rage"/>
+		<msg id="skill0178" cont="Bloodyrusk"/>
+		<msg id="skill0179" cont="Vital Charge"/>
+		<msg id="skill0180" cont="Art of Rage"/>
+		<msg id="skill0181" cont="Sight Increase"/>
+		<msg id="skill0182" cont="Rage Resist"/>
+		<msg id="skill0183" cont="Battle Fury"/>
+		<msg id="skill0184" cont="Aegis"/>
+		<msg id="skill0185" cont="Mortal Combat"/>
+		<msg id="skill0186" cont="Rage Shield"/>
+		<msg id="skill0187" cont="Hyper Odd Circle"/>
+		<msg id="skill0188" cont="Dread"/>
+		<msg id="skill0189" cont="Overwhelming"/>
+		<msg id="skill0190" cont="Hawk Hunter"/>
+		<msg id="skill0191" cont="Shield Taunt"/>
+		<msg id="skill0192" cont="Chakram Slam"/>
+		<msg id="skill0193" cont="Multiple Canon"/>
+		<msg id="skill0194" cont="Arrow Forest"/>
+		<msg id="skill0195" cont="Piercing Shield"/>
+		<msg id="skill0196" cont="Adrenaline of Rage"/>
+		<msg id="skill0200" cont="Blade Force"/>
+		<msg id="skill0201" cont="Blade Aura"/>
+		<msg id="skill0202" cont="Soul Blade"/>
+		<msg id="skill0203" cont="Concentration"/>
+		<msg id="skill0204" cont="Iron skin"/>
+		<msg id="skill0205" cont="Aura Barrier"/>
+		<msg id="skill0206" cont="Panic Cry"/>
+		<msg id="skill0207" cont="Field of Fear"/>
+		<msg id="skill0208" cont="Dash"/>
+		<msg id="skill0209" cont="Fade Step"/>
+		<msg id="skill0210" cont="Instant Immunity"/>
+		<msg id="skill0211" cont="Mirage Step"/>
+		<msg id="skill0212" cont="Resist Barier"/>
+		<msg id="skill0213" cont="Intuition"/>
+		<msg id="skill0214" cont="Art of Fierceness"/>
+		<msg id="skill0215" cont="Intense Blade"/>
+		<msg id="skill0216" cont="Down Breaker"/>
+		<msg id="skill0217" cont="Morale Shout"/>
+		<msg id="skill0218" cont="Fury Shout"/>
+		<msg id="skill0219" cont="Cat's Recovery"/>
+		<msg id="skill0220" cont="Bear's Vitality"/>
+		<msg id="skill0221" cont="Bloody Spirit"/>
+		<msg id="skill0222" cont="Art of Shout"/>
+		<msg id="skill0223" cont="Resist intension"/>
+		<msg id="skill0224" cont="Shadow Shield"/>
+		<msg id="skill0225" cont="Art of Defense"/>
+		<msg id="skill0226" cont="Art of Force Control"/>
+		<msg id="skill0227" cont="Raise Spirit"/>
+		<msg id="skill0228" cont="Mass Restore"/>
+		<msg id="skill0229" cont="High Regeneration"/>
+		<msg id="skill0230" cont="Regeneration"/>
+		<msg id="skill0231" cont="Weaken"/>
+		<msg id="skill0232" cont="Hardness"/>
+		<msg id="skill0233" cont="Energy Field"/>
+		<msg id="skill0234" cont="Blink"/>
+		<msg id="skill0235" cont="Spirit Intension"/>
+		<msg id="skill0236" cont="Force Hardness"/>
+		<msg id="skill0237" cont="Precision"/>
+		<msg id="skill0238" cont="Repulsive Armor"/>
+		<msg id="skill0239" cont="Blind"/>
+		<msg id="skill0240" cont="Eagle Eye"/>
+		<msg id="skill0241" cont="Curse of Wither"/>
+		<msg id="skill0242" cont="Sharpness"/>
+		<msg id="skill0243" cont="Mana Condense"/>
+		<msg id="skill0244" cont="Vital Force"/>
+		<msg id="skill0245" cont="Greater Heal"/>
+		<msg id="skill0246" cont="Vital Bless"/>
+		<msg id="skill0247" cont="Mass Heal"/>
+		<msg id="skill0248" cont="Crushing Blade"/>
+		<msg id="skill0249" cont="Heal"/>
+		<msg id="skill0250" cont="Shield Harden"/>
+		<msg id="skill0251" cont="Mortal Bane"/>
+		<msg id="skill0252" cont="Enchant"/>
+		<msg id="skill0253" cont="Earth Guard"/>
+		<msg id="skill0254" cont="Aqua Vitality"/>
+		<msg id="skill0255" cont="Wind Movement"/>
+		<msg id="skill0256" cont="Fire Blade"/>
+		<msg id="skill0257" cont="Guard Break"/>
+		<msg id="skill0258" cont="Lightning Blade"/>
+		<msg id="skill0259" cont="Ice Blade"/>
+		<msg id="skill0261" cont="Execration"/>
+		<msg id="skill0262" cont="Hard Luck"/>
+		<msg id="skill0264" cont="Force Enchanter Dummy Buffing #1"/>
+		<msg id="skill0265" cont="Force Enchanter Dummy Buffing #2"/>
+		<msg id="skill0266" cont="Force Enchanter Dummy Buffing #3"/>
+		<msg id="skill0267" cont="Force Enchanter Dummy Buffing #4"/>
+		<msg id="skill0268" cont="Art of Curse"/>
+		<msg id="skill0269" cont="Curse of Freeze"/>
+		<msg id="skill0270" cont="Field of Enervation"/>
+		<msg id="skill0271" cont="Field of Execration"/>
+		<msg id="skill0272" cont="Thrusting Arrow"/>
+		<msg id="skill0273" cont="Art of Healing"/>
+		<msg id="skill0274" cont="Art of Sniping"/>
+		<msg id="skill0275" cont="Attack Ability Enhancement"/>
+		<msg id="skill0276" cont="Defense Ability Enhancement"/>
+		<msg id="skill0277" cont="Ice Lord's Will"/>
+		<msg id="skill0278" cont="Ice Guardian's Blessing"/>
+		<msg id="skill0279" cont="Wind Agility"/>
+		<msg id="skill0280" cont="Aqua Restore"/>
+		<msg id="skill0281" cont="FA Cure"/>
+		<msg id="skill0282" cont="FA Buff 1"/>
+		<msg id="skill0283" cont="FS Buff 1"/>
+		<msg id="skill0284" cont="FS Buff 2"/>
+		<msg id="skill0285" cont="Boss Battle member buff"/>
+		<msg id="skill0286" cont="Boss Battle fortress buff"/>
+		<msg id="skill0287" cont="Magic Control"/>
+		<msg id="skill0288" cont="Spirit Shield"/>
+		<msg id="skill0289" cont="Quick Move"/>
+		<msg id="skill0290" cont="Reflex Shield"/>
+		<msg id="skill0291" cont="Piercing Spell"/>
+		<msg id="skill0292" cont="Elemental Enchant"/>
+		<msg id="skill0293" cont="Enhance Attack"/>
+		<msg id="skill0294" cont="Enhance Defense"/>
+		<msg id="skill0295" cont="Enhance Critical"/>
+		<msg id="skill0296" cont="Enhance Resistance"/>
+		<msg id="skill0297" cont="Troll's Vigor"/>
+		<msg id="skill0298" cont="Dragon's Breath"/>
+		<msg id="skill0299" cont="Focus"/>
+		<msg id="skill0300" cont="Vitality Mastery"/>
+		<msg id="skill0301" cont="Mana Mastery"/>
+		<msg id="skill0302" cont="Offensive Sense"/>
+		<msg id="skill0303" cont="Defensive Sense"/>
+		<msg id="skill0304" cont="Force Control"/>
+		<msg id="skill0305" cont="Reflex"/>
+		<msg id="skill0306" cont="Sharp Eyes"/>
+		<msg id="skill0307" cont="Change Force(Magic)"/>
+		<msg id="skill0308" cont="Change Force(Sword)"/>
+		<msg id="skill0310" cont="Eyes of Mind"/>
+		<msg id="skill0311" cont="Sixth Sense"/>
+		<msg id="skill0312" cont="Ruling Force"/>
+		<msg id="skill0313" cont="Impact Control"/>
+		<msg id="skill0314" cont="Damage Absorb"/>
+		<msg id="skill0329" cont="Astral Enchant"/>
+		<msg id="skill0330" cont="Astral Gun"/>
+		<msg id="skill0331" cont="Astral Bow"/>
+		<msg id="skill0332" cont="Astral Shield"/>
+		<msg id="skill0333" cont="Earth Aura"/>
+		<msg id="skill0334" cont="Aqua Aura"/>
+		<msg id="skill0335" cont="Wind Aura"/>
+		<msg id="skill0336" cont="Flame Aura"/>
+		<msg id="skill0337" cont="Ice Aura"/>
+		<msg id="skill0338" cont="Lightening Aura"/>
+		<msg id="skill0339" cont="Dummy Skill"/>
+		<msg id="skill0340" cont="Berserker"/>
+		<msg id="skill0341" cont="Lancer"/>
+		<msg id="skill0342" cont="Illusionist"/>
+		<msg id="skill0343" cont="Grappler"/>
+		<msg id="skill0344" cont="Chain Caster"/>
+		<msg id="skill0345" cont="Double Caster"/>
+		<msg id="skill0346" cont="Multi Shooter"/>
+		<msg id="skill0347" cont="Twin Gunner"/>
+		<msg id="skill0348" cont="Counter Attacker"/>
+		<msg id="skill0349" cont="Shield Master"/>
+		<msg id="skill0350" cont="Force Enchanter"/>
+		<msg id="skill0351" cont="Blade Shooter"/>
+		<msg id="skill0352" cont="Infighter"/>
+		<msg id="skill0353" cont="Death Scyther"/>
+		<msg id="skill0360" cont="Board Skill #1"/>
+		<msg id="skill0361" cont="Board Skill #2"/>
+		<msg id="skill0362" cont="Board Skill #3"/>
+		<msg id="skill0363" cont="Board Skill #4"/>
+		<msg id="skill0364" cont="Bike Charge"/>
+		<msg id="skill0365" cont="Willie Smash"/>
+		<msg id="skill0366" cont="Jack Knife Buster"/>
+		<msg id="skill0367" cont="Drift Slash"/>
+		<msg id="skill0380" cont="Lancer Attack #1"/>
+		<msg id="skill0381" cont="Lancer Attack #2"/>
+		<msg id="skill0382" cont="Lancer Attack #3"/>
+		<msg id="skill0383" cont="Lancer Attack #4"/>
+		<msg id="skill0384" cont="Grappler Attack #1"/>
+		<msg id="skill0385" cont="Grappler Attack #2"/>
+		<msg id="skill0386" cont="Grappler Attack #3"/>
+		<msg id="skill0387" cont="Grappler Attack #4"/>
+		<msg id="skill0388" cont="Shield Master Attack #1"/>
+		<msg id="skill0389" cont="Shield Master Attack #2"/>
+		<msg id="skill0390" cont="Shield Master Attack #3"/>
+		<msg id="skill0391" cont="Twin Gunner Attack #1"/>
+		<msg id="skill0392" cont="Twin Gunner Attack #2"/>
+		<msg id="skill0393" cont="Twin Gunner Attack #3"/>
+		<msg id="skill0394" cont="Twin Gunner Attack #4"/>
+		<msg id="skill0395" cont="Scyther Attack #1"/>
+		<msg id="skill0396" cont="Scyther Attack #2"/>
+		<msg id="skill0397" cont="Scyther Attack #3"/>
+		<msg id="skill0398" cont="Scyther Attack #4"/>
+		<msg id="skill0399" cont="Death Scyther Guillotine"/>
+		<msg id="skill0400" cont="Lance Drive"/>
+		<msg id="skill0401" cont="Lancer Skill 2"/>
+		<msg id="skill0402" cont="Crushing Blow"/>
+		<msg id="skill0403" cont="Grappler Skill 2"/>
+		<msg id="skill0404" cont="Elemental Festival"/>
+		<msg id="skill0405" cont="Double Caster Skill 2"/>
+		<msg id="skill0406" cont="Fatal Shot"/>
+		<msg id="skill0407" cont="Twin Gunner Skill 2"/>
+		<msg id="skill0408" cont="Shield Storm"/>
+		<msg id="skill0409" cont="Shield Master Skill 2"/>
+		<msg id="skill0410" cont="Prismatic Blade-Cannon"/>
+		<msg id="skill0411" cont="Blade Shooter Skill 2"/>
+		<msg id="skill0412" cont="Beam 1"/>
+		<msg id="skill0413" cont="Beam 2"/>
+		<msg id="skill0414" cont="Beam 3"/>
+		<msg id="skill0418" cont="Chance Attack"/>
+		<msg id="skill0419" cont="Combo Start"/>
+		<msg id="skill0420" cont="Summon Astral Bike"/>
+		<msg id="skill0421" cont="Board Chain Attack"/>
+		<msg id="skill0422" cont="Bike Chain Attack"/>
+		<msg id="skill0423" cont="Old Bike Skill #3"/>
+		<msg id="skill0424" cont="Magic Arrow"/>
+		<msg id="skill0425" cont="Terra Arrow"/>
+		<msg id="skill0426" cont="Aqua Arrow"/>
+		<msg id="skill0427" cont="Wind Arrow"/>
+		<msg id="skill0428" cont="Fire Arrow"/>
+		<msg id="skill0429" cont="Freezing Arrow"/>
+		<msg id="skill0430" cont="Lightning Arrow"/>
+		<msg id="skill0431" cont="Magic Blast"/>
+		<msg id="skill0432" cont="Stone Blast"/>
+		<msg id="skill0433" cont="Aqua Blast"/>
+		<msg id="skill0434" cont="Wind Blast"/>
+		<msg id="skill0435" cont="Fire Blast"/>
+		<msg id="skill0436" cont="Ice Blast"/>
+		<msg id="skill0437" cont="Lightning Blast"/>
+		<msg id="skill0438" cont="Magic Lance"/>
+		<msg id="skill0439" cont="Terra Lance"/>
+		<msg id="skill0440" cont="Aqua Lance"/>
+		<msg id="skill0441" cont="Wind Lance"/>
+		<msg id="skill0442" cont="Fire Lance"/>
+		<msg id="skill0443" cont="Freezing Lance"/>
+		<msg id="skill0444" cont="Lightning Lance"/>
+		<msg id="skill0445" cont="Magic Cannon"/>
+		<msg id="skill0446" cont="Stone Cannon"/>
+		<msg id="skill0447" cont="Aqua Cannon"/>
+		<msg id="skill0448" cont="Wind Cannon"/>
+		<msg id="skill0449" cont="Fire Cannon"/>
+		<msg id="skill0450" cont="Crystal Cannon"/>
+		<msg id="skill0451" cont="Lightning Cannon"/>
+		<msg id="skill0452" cont="Astral Board"/>
+		<msg id="skill0453" cont="Astral Board Dummy Skill"/>
+		<msg id="skill0454" cont="Attack UP"/>
+		<msg id="skill0455" cont="Defense UP"/>
+		<msg id="skill0456" cont="Resist Critical DMG/Skill AMP UP"/>
+		<msg id="skill0457" cont="Attack DOWN"/>
+		<msg id="skill0458" cont="Defense DOWN"/>
+		<msg id="skill0459" cont="HP Decrease"/>
+		<msg id="skill0460" cont="GM's Blessing(Lv. 1)"/>
+		<msg id="skill0461" cont="GM's Blessing(Lv. 2)"/>
+		<msg id="skill0462" cont="GM's Blessing(Lv. 3)"/>
+		<msg id="skill0463" cont="Debuff of GM"/>
+		<msg id="skill0464" cont="Blade Shooter Attack No. 1"/>
+		<msg id="skill0465" cont="Blade Shooter Attack No. 2"/>
+		<msg id="skill0466" cont="Blade Shooter Attack No. 3"/>
+		<msg id="skill0467" cont="Blade Shooter Attack No. 4"/>
+		<msg id="skill0468" cont="Mighty Wish"/>
+		<msg id="skill0469" cont="Field of Provocation"/>
+		<msg id="skill0470" cont="Offensive Bless"/>
+		<msg id="skill0471" cont="Curse Remove"/>
+		<msg id="skill0472" cont="Curse Dodge"/>
+		<msg id="skill0473" cont="Fatality Increase"/>
+		<msg id="skill0474" cont="Saint's Force"/>
+		<msg id="skill0475" cont="Axe Destroyer"/>
+		<msg id="skill0476" cont="Knucklet Striker"/>
+		<msg id="skill0477" cont="Elemental Dominator"/>
+		<msg id="skill0478" cont="Launcher Punisher"/>
+		<msg id="skill0479" cont="Hammer Crusher"/>
+		<msg id="skill0480" cont="Sword Splitter"/>
+		<msg id="skill0481" cont="Axe Attack A"/>
+		<msg id="skill0482" cont="Axe Attack B"/>
+		<msg id="skill0483" cont="Axe Specialty Level 1"/>
+		<msg id="skill0484" cont="Axe Specialty Level 2"/>
+		<msg id="skill0485" cont="Axe Specialty Level 3"/>
+		<msg id="skill0486" cont="Knucklet Attack A"/>
+		<msg id="skill0487" cont="Knucklet Attack B"/>
+		<msg id="skill0488" cont="Knucklet Specialty Level 1"/>
+		<msg id="skill0489" cont="Knucklet Specialty Level 2"/>
+		<msg id="skill0490" cont="Knucklet Specialty Level 3"/>
+		<msg id="skill0491" cont="Elemental Attack A"/>
+		<msg id="skill0492" cont="Elemental Attack B"/>
+		<msg id="skill0493" cont="Elemental Specialty Level 1"/>
+		<msg id="skill0494" cont="Elemental Specialty Level 2"/>
+		<msg id="skill0495" cont="Elemental Specialty Level 3"/>
+		<msg id="skill0496" cont="Launcher Attack A"/>
+		<msg id="skill0497" cont="Launcher Attack B"/>
+		<msg id="skill0498" cont="Launcher Specialty Level 1"/>
+		<msg id="skill0499" cont="Launcher Specialty Level 2"/>
+		<msg id="skill0500" cont="Launcher Specialty Level 3"/>
+		<msg id="skill0501" cont="Hammer Attack A"/>
+		<msg id="skill0502" cont="Hammer Attack B"/>
+		<msg id="skill0503" cont="Hammer Specialty Level 1"/>
+		<msg id="skill0504" cont="Hammer Specialty Level 2"/>
+		<msg id="skill0505" cont="Hammer Specialty Level 3"/>
+		<msg id="skill0506" cont="Split Attack A"/>
+		<msg id="skill0507" cont="Split Attack B"/>
+		<msg id="skill0508" cont="Split Specialty Level 1"/>
+		<msg id="skill0509" cont="Split Specialty Level 2"/>
+		<msg id="skill0510" cont="Split Specialty Level 3"/>
+		<msg id="skill0511" cont="OTP exclusive buff"/>
+		<msg id="skill0512" cont="Ranger"/>
+		<msg id="skill0513" cont="Heavy Launcher"/>
+		<msg id="skill0514" cont="Gunner Battle Mode 2 Attack #1"/>
+		<msg id="skill0515" cont="Gunner Battle Mode 2 Attack #2"/>
+		<msg id="skill0516" cont="Gunner Battle Mode 2 Attack #3"/>
+		<msg id="skill0517" cont="Gunner Battle Mode 2 Attack #4"/>
+		<msg id="skill0518" cont="Surface Impact"/>
+		<msg id="skill0519" cont="Hit Man"/>
+		<msg id="skill0520" cont="Hit Man Attack A"/>
+		<msg id="skill0521" cont="Hit Man Attack B"/>
+		<msg id="skill0522" cont="Hit Man Speciality Stage 1"/>
+		<msg id="skill0523" cont="Hit Man Speciality Stage 2"/>
+		<msg id="skill0524" cont="Hit Man Speciality Stage 3"/>
+		<msg id="skill0525" cont="Magic Arrow"/>
+		<msg id="skill0526" cont="Terra Arrow"/>
+		<msg id="skill0527" cont="Aqua Arrow"/>
+		<msg id="skill0528" cont="Wind Arrow"/>
+		<msg id="skill0529" cont="Fire Arrow"/>
+		<msg id="skill0530" cont="Freezing Arrow"/>
+		<msg id="skill0531" cont="Lightning Arrow"/>
+		<msg id="skill0532" cont="Magic Blast"/>
+		<msg id="skill0533" cont="Stone Blast"/>
+		<msg id="skill0534" cont="Aqua Blast"/>
+		<msg id="skill0535" cont="Wind Blast"/>
+		<msg id="skill0536" cont="Fire Blast"/>
+		<msg id="skill0537" cont="Ice Blast"/>
+		<msg id="skill0538" cont="Lightning Blast"/>
+		<msg id="skill0539" cont="Magic Lance"/>
+		<msg id="skill0540" cont="Terra Lance"/>
+		<msg id="skill0541" cont="Aqua Lance"/>
+		<msg id="skill0542" cont="Wind Lance"/>
+		<msg id="skill0543" cont="Fire Lance"/>
+		<msg id="skill0544" cont="Freezing Lance"/>
+		<msg id="skill0545" cont="Lightning Lance"/>
+		<msg id="skill0546" cont="Magic Cannon"/>
+		<msg id="skill0547" cont="Stone Cannon"/>
+		<msg id="skill0548" cont="Aqua Cannon"/>
+		<msg id="skill0549" cont="Wind Cannon"/>
+		<msg id="skill0550" cont="Fire Cannon"/>
+		<msg id="skill0551" cont="Crystal Cannon"/>
+		<msg id="skill0552" cont="Lightning Cannon"/>
+		<msg id="skill0553" cont="Aim Shot"/>
+		<msg id="skill0554" cont="Targeting Shot"/>
+		<msg id="skill0555" cont="Slug Shot"/>
+		<msg id="skill0556" cont="Oppression Shot"/>
+		<msg id="skill0557" cont="Rolling Launcher"/>
+		<msg id="skill0558" cont="Force Slug"/>
+		<msg id="skill0559" cont="Shot Impact"/>
+		<msg id="skill0560" cont="Living Fog"/>
+		<msg id="skill0561" cont="Broken Arrow"/>
+		<msg id="skill0562" cont="Ion Bullet"/>
+		<msg id="skill0563" cont="Lightning Satellite"/>
+		<msg id="skill0564" cont="Sunset Missiless"/>
+		<msg id="skill0565" cont="Grenade Down"/>
+		<msg id="skill0566" cont="Buster Bombard"/>
+		<msg id="skill0567" cont="Wide Cover Shot"/>
+		<msg id="skill0568" cont="Mouse Mk-2"/>
+		<msg id="skill0569" cont="Call Valkyrie"/>
+		<msg id="skill0570" cont="Revenger"/>
+		<msg id="skill0571" cont="Mechanic-crop"/>
+		<msg id="skill0572" cont="Storm Blitz"/>
+		<msg id="skill0573" cont="Art of Desperado"/>
+		<msg id="skill0574" cont="Reactive Technique"/>
+		<msg id="skill0575" cont="Inspire"/>
+		<msg id="skill0576" cont="Lock On"/>
+		<msg id="skill0577" cont="Target Focus"/>
+		<msg id="skill0578" cont="Sniper Plan"/>
+		<msg id="skill0579" cont="Castle Rock"/>
+		<msg id="skill0580" cont="Warfare Matrix"/>
+		<msg id="skill0581" cont="Platinum Buff (Normal)"/>
+		<msg id="skill0582" cont="Platinum Buff (Rare)"/>
+		<msg id="skill0583" cont="Platinum Buff (Unique)"/>
+		<msg id="skill0584" cont="Platinum Buff (Master)"/>
+		<msg id="skill0585" cont="Platinum Buff (Epic)"/>
+		<msg id="skill0586" cont="Platinum Buff (Legend)"/>
+		<msg id="skill0587" cont="GM's Blessing (Lv.4)"/>
+		<msg id="skill0588" cont="Wing Fly"/>
+		<msg id="skill0589" cont="Wing Assault"/>
+		<msg id="skill0590" cont="Wing Protect"/>
+		<msg id="skill0591" cont="Force Field"/>
+		<msg id="skill0592" cont="Legend Arena buff"/>
+		<msg id="skill0593" cont="Bless of Unity"/>
+		<msg id="skill0594" cont="Explorer's Blessing (Lv.1)"/>
+		<msg id="skill0595" cont="Explorer's Blessing (Lv.2)"/>
+		<msg id="skill0596" cont="Explorer's Blessing (Lv.3)"/>
+		<msg id="skill0597" cont="Saint's Force of Warrier"/>
+		<msg id="skill0598" cont="Saint's Force of Blader"/>
+		<msg id="skill0599" cont="Saint's Force of Wizzard"/>
+		<msg id="skill0600" cont="Saint's Force of Force Archer"/>
+		<msg id="skill0601" cont="Saint's Force of Force Shielder"/>
+		<msg id="skill0602" cont="Saint's Force of Force Blader"/>
+		<msg id="skill0603" cont="Saint's Force of Gladiator"/>
+		<msg id="skill0604" cont="Saint's Force of Force Gunner"/>
+		<msg id="skill0605" cont="Frenzy(Target Focus)"/>
+		<msg id="skill0606" cont="Frenzy"/>
+		<msg id="skill0607" cont="Dooms Blade"/>
+		<msg id="skill0608" cont="Force Unleashing(Traget Focus)"/>
+		<msg id="skill0609" cont="Force Unleashing"/>
+		<msg id="skill0610" cont="Sharp Instinct"/>
+		<msg id="skill0611" cont="Preemtive Defense"/>
+		<msg id="skill0612" cont="Elemental Discharge"/>
+		<msg id="skill0613" cont="Furious"/>
+		<msg id="skill0614" cont="Overfire"/>
+		<msg id="skill0615" cont="Rhinos Toughness"/>
+		<msg id="skill0616" cont="Vampiric Movement"/>
+		<msg id="skill0617" cont="Force Shell"/>
+		<msg id="skill0618" cont="Sprit Walk"/>
+		<msg id="skill0619" cont="Shield Castle"/>
+		<msg id="skill0620" cont="Elemental Barrier"/>
+		<msg id="skill0621" cont="Unbreakable"/>
+		<msg id="skill0622" cont="Tactical Armor"/>
+		<msg id="skill0623" cont="Charging Spirit"/>
+		<msg id="skill0624" cont="Blind Anger"/>
+		<msg id="skill0625" cont="Warrior Mastery"/>
+		<msg id="skill0626" cont="Blader Mastery"/>
+		<msg id="skill0627" cont="Wizard Mastery"/>
+		<msg id="skill0628" cont="Force Archer Mastery"/>
+		<msg id="skill0629" cont="Force Shielder Mastery"/>
+		<msg id="skill0630" cont="Force Blader Mastery"/>
+		<msg id="skill0631" cont="Gladiator Mastery"/>
+		<msg id="skill0632" cont="Force Gunner Mastery"/>
+		<msg id="skill0633" cont="Skull Shooter"/>
+		<msg id="skill0634" cont="Bone Javelin"/>
+		<msg id="skill0635" cont="Dark Ray"/>
+		<msg id="skill0636" cont="Dark Explosion"/>
+		<msg id="skill0637" cont="Death Crasher"/>
+		<msg id="skill0638" cont="Bone Ballista"/>
+		<msg id="skill0639" cont="Dark Ray Diffusion"/>
+		<msg id="skill0640" cont="Night Fall "/>
+		<msg id="skill0641" cont="Shadow Fall"/>
+		<msg id="skill0642" cont="Dark Scream"/>
+		<msg id="skill0643" cont="Bone Gluttony"/>
+		<msg id="skill0644" cont="Deadly Smasher"/>
+		<msg id="skill0645" cont="Assassinate Bomber"/>
+		<msg id="skill0646" cont="Venom's Affair"/>
+		<msg id="skill0647" cont="Demons Waltz"/>
+		<msg id="skill0648" cont="Creeping Pain"/>
+		<msg id="skill0649" cont="Revenge of Nature"/>
+		<msg id="skill0650" cont="Spirit Swarm"/>
+		<msg id="skill0651" cont="Soul intake"/>
+		<msg id="skill0652" cont="Border of Venom"/>
+		<msg id="skill0653" cont="Butcher's Hell"/>
+		<msg id="skill0654" cont="Border of Dystrophy"/>
+		<msg id="skill0655" cont="Offering of Hell"/>
+		<msg id="skill0656" cont="Darkmatter Fallen"/>
+		<msg id="skill0657" cont="Border of Absorption"/>
+		<msg id="skill0658" cont="Harvest of Reaper"/>
+		<msg id="skill0659" cont="Spirit Redemption"/>
+		<msg id="skill0660" cont="Vanquish of Evil"/>
+		<msg id="skill0661" cont="Corps Explosion"/>
+		<msg id="skill0662" cont="Hell's Requiem"/>
+		<msg id="skill0663" cont="Warlock"/>
+		<msg id="skill0664" cont="Grimoire "/>
+		<msg id="skill0665" cont="Grimoire Attack #1"/>
+		<msg id="skill0666" cont="Grimoire Attack #2"/>
+		<msg id="skill0667" cont="Demolision Ray"/>
+		<msg id="skill0668" cont="Demon Trigger"/>
+		<msg id="skill0669" cont="Demon Trigger Attack A"/>
+		<msg id="skill0670" cont="Demon Trigger Attack B"/>
+		<msg id="skill0671" cont="Demon Trigger Speciality Stage 1"/>
+		<msg id="skill0672" cont="Demon Trigger Speciality Stage 2"/>
+		<msg id="skill0673" cont="Demon Trigger Speciality Stage 3"/>
+		<msg id="skill0674" cont="Saint's Force of Dark Mage"/>
+		<msg id="skill0675" cont="Defensive Posture"/>
+		<msg id="skill0676" cont="Crumble Body"/>
+		<msg id="skill0677" cont="Curse of Bleeding"/>
+		<msg id="skill0678" cont="Leg Fracture"/>
+		<msg id="skill0679" cont="Bloodless"/>
+		<msg id="skill0680" cont="Skin Weakness"/>
+		<msg id="skill0681" cont="Silence"/>
+		<msg id="skill0682" cont="Bone Shield"/>
+		<msg id="skill0683" cont="Petrified One"/>
+		<msg id="skill0684" cont="Art of Blood Thrust"/>
+		<msg id="skill0685" cont="Calamity Soul"/>
+		<msg id="skill0686" cont="Bloody Bless"/>
+		<msg id="skill0687" cont="Dark Mage Mastery"/>
+		<msg id="skill0688" cont="Vital Recovery"/>
+		<msg id="skill0689" cont="Adaptive Barrier"/>
+		<msg id="skill0690" cont="Circle Crafting"/>
+		<msg id="skill0691" cont="Amplify"/>
+		<msg id="skill0692" cont="Force Overlord"/>
+		<msg id="skill0693" cont="GM's Blessing (Lv.5)"/>
+		<msg id="skill0694" cont="Sanctuary Conqueror"/>
+		<msg id="skill0695" cont="Weapon Refinement"/>
+		<msg id="skill0696" cont="Massive Thrust"/>
+		<msg id="skill0697" cont="Poison Mist Ray"/>
+		<msg id="skill0698" cont="Descent : Retribution"/>
+		<msg id="skill0699" cont="Surging Will"/>
+		<msg id="skill0700" cont="Assert Signum"/>
+		<msg id="skill0701" cont="Cube Seeker (Lv.1)"/>
+		<msg id="skill0702" cont="Cube Seeker (Lv.2)"/>
+		<msg id="skill0703" cont="Cube Seeker (Lv.3)"/>
+		<msg id="skill0704" cont="Clue in the Abyss"/>
+		<msg id="skill0705" cont="Dazzling Growth"/>
+		<msg id="skill0706" cont="Exploration of Abyss"/>
+		<msg id="skill0707" cont="Journey of Experience"/>
+		<msg id="skill0708" cont="New growth"/>
+		<msg id="skill0709" cont="Gentle Warmth"/>
+		<msg id="skill0710" cont="Brilliant Flame (Red)"/>
+		<msg id="skill0711" cont="Brilliant Flame (Blue)"/>
+		<msg id="skill0712" cont="Brilliant Flame (Green)"/>
+		<msg id="skill0713" cont="Brilliant Flame (Violet)"/>
+		<msg id="skill0714" cont="Brilliant Flame"/>
+		<msg id="skill_desc0001" cont="Slash with one breath"/>
+		<msg id="skill_desc0002" cont="The most basic fencing skill for swordsmen"/>
+		<msg id="skill_desc0003" cont="Stab a target with might"/>
+		<msg id="skill_desc0004" cont="Stab a target to confuse its sense of distance"/>
+		<msg id="skill_desc0005" cont="Stab a target with force enhanced sword"/>
+		<msg id="skill_desc0006" cont="Penetrate a target with spiral attack"/>
+		<msg id="skill_desc0007" cont="Cross two swords to stab a target"/>
+		<msg id="skill_desc0008" cont="Brandish a sword to slash many enemies"/>
+		<msg id="skill_desc0009" cont="Stab a target repeatedly with force enhanced sword"/>
+		<msg id="skill_desc0010" cont="Slash a target using a giant sword"/>
+		<msg id="skill_desc0011" cont="Slash a target downward with might"/>
+		<msg id="skill_desc0012" cont="Spin and slash a target downward"/>
+		<msg id="skill_desc0013" cont="Jump high and strike down a target"/>
+		<msg id="skill_desc0014" cont="Stab down a target with spinning jump"/>
+		<msg id="skill_desc0015" cont="Hammer the ground with might"/>
+		<msg id="skill_desc0016" cont="Wield two swords at once"/>
+		<msg id="skill_desc0017" cont="Stab twice with force enhanced sword"/>
+		<msg id="skill_desc0018" cont="Blader's faster attack"/>
+		<msg id="skill_desc0019" cont="Enables the caster to add more force on a sword each time it is used"/>
+		<msg id="skill_desc0020" cont="Inflict repeated spiral attacks on a target using a sword"/>
+		<msg id="skill_desc0021" cont="Temporarily focus one's power on a sword to do more damage on a target"/>
+		<msg id="skill_desc0022" cont="Swing a sword upward to make a target lose its balance"/>
+		<msg id="skill_desc0023" cont="Spin and swing a giant sword upward to attack a target"/>
+		<msg id="skill_desc0024" cont="Attack quickly using dual swords"/>
+		<msg id="skill_desc0025" cont="Cut down a target using a force enhanced sword"/>
+		<msg id="skill_desc0026" cont="Do a spin jump and split the ground open using a sword"/>
+		<msg id="skill_desc0027" cont="Hide and attack a target when it comes near the caster"/>
+		<msg id="skill_desc0028" cont="Endow a sword with the earth spirit and penetrate a target"/>
+		<msg id="skill_desc0029" cont="Leap toward a target and attack with might"/>
+		<msg id="skill_desc0030" cont="Use the force within your legs and shoulders to crash into a target"/>
+		<msg id="skill_desc0031" cont="Move quickly and accurately to slash a target"/>
+		<msg id="skill_desc0032" cont="Manipulate the repelling power of the Astral Shield"/>
+		<msg id="skill_desc0033" cont="Stab a target while dashing"/>
+		<msg id="skill_desc0034" cont="Scorchs the path with a deadly storm"/>
+		<msg id="skill_desc0035" cont="Merciless sword attack"/>
+		<msg id="skill_desc0036" cont="Cruel destruction with a splendid sword dance"/>
+		<msg id="skill_desc0037" cont="Violent scamp from hell doesn't allow any chance"/>
+		<msg id="skill_desc0038" cont="Attack all of the enemies surrounding the caster at once"/>
+		<msg id="skill_desc0039" cont="Enables the caster to perform a deadly spiral attack on a target"/>
+		<msg id="skill_desc0040" cont="A deadly skill that leaves nothing behind"/>
+		<msg id="skill_desc0041" cont="Ruthlessly attack a target with the rage of a storm"/>
+		<msg id="skill_desc0042" cont="A sign from hell that attacks many foes at once"/>
+		<msg id="skill_desc0043" cont="Shoot a wheel of force at a target using a giant sword"/>
+		<msg id="skill_desc0044" cont="Twin moons from dual swords that bring death to their target"/>
+		<msg id="skill_desc0045" cont="Create a destructive force using a shield that penetrates a target"/>
+		<msg id="skill_desc0046" cont="Deliver collected, concentrated force to a target"/>
+		<msg id="skill_desc0047" cont="0"/>
+		<msg id="skill_desc0048" cont="0"/>
+		<msg id="skill_desc0049" cont="0"/>
+		<msg id="skill_desc0050" cont="0"/>
+		<msg id="skill_desc0051" cont="Collide one's sword with the earth to cause a dangerous explosion"/>
+		<msg id="skill_desc0052" cont="Create a shock wave by spinning a sword with might"/>
+		<msg id="skill_desc0053" cont="Transfer the amplified force of a shield to a sword, and then strike down an enemy"/>
+		<msg id="skill_desc0054" cont="Destabilize the force surrounding you, and cause critical explosions."/>
+		<msg id="skill_desc0055" cont="The impact of strongly crying sword divides the land and shakes the atmosphere"/>
+		<msg id="skill_desc0056" cont="The enemy falling by the sword go through like a flash"/>
+		<msg id="skill_desc0057" cont="The high speed spinning Astral Shield becomes the BLADE of a SWORD as it clashes to the atmosphere"/>
+		<msg id="skill_desc0058" cont="It engraves a stigma on the back of victims and destroyes them with a stigma"/>
+		<msg id="skill_desc0059" cont="0"/>
+		<msg id="skill_desc0060" cont="0"/>
+		<msg id="skill_desc0061" cont="0"/>
+		<msg id="skill_desc0062" cont="0"/>
+		<msg id="skill_desc0063" cont="Cleaves the earth by maximizing the power of the sword."/>
+		<msg id="skill_desc0064" cont="The unleashed anger so great that the enemy is deluded into seeing mirror images."/>
+		<msg id="skill_desc0065" cont="The force, instantly concentrated, explodes all at once."/>
+		<msg id="skill_desc0066" cont="Breaks the seal of hell to attack the target."/>
+		<msg id="skill_desc0067" cont="0"/>
+		<msg id="skill_desc0068" cont="Quickly approach to a target and inflict great damage."/>
+		<msg id="skill_desc0069" cont="0"/>
+		<msg id="skill_desc0070" cont="Impact a target and interrupt it from taking action"/>
+		<msg id="skill_desc0071" cont="Use the power of Shield and gather monsters"/>
+		<msg id="skill_desc0072" cont="Announce the opponent's doom by thrusting an empowered sword."/>
+		<msg id="skill_desc0073" cont="Slash the enemy with blades of illusions."/>
+		<msg id="skill_desc0074" cont="Attack with claws summoned from hell."/>
+		<msg id="skill_desc0075" cont="Bring cataclysm with blades rising from the earth and the power of lightening"/>
+		<msg id="skill_desc0076" cont="Basic slash using Chakrams"/>
+		<msg id="skill_desc0077" cont="A gentle spinning slash"/>
+		<msg id="skill_desc0078" cont="A slash using the weight of Chakrams"/>
+		<msg id="skill_desc0079" cont="Thrust attack with Chakrams"/>
+		<msg id="skill_desc0080" cont="Smash down the target"/>
+		<msg id="skill_desc0081" cont="An uppercut using the spinning angle of Chakrams"/>
+		<msg id="skill_desc0082" cont="Attack surrounding enemies with the power of earth"/>
+		<msg id="skill_desc0083" cont="A mighty spinning attack dividing dimensions"/>
+		<msg id="skill_desc0084" cont="A quick attack to the weak spot"/>
+		<msg id="skill_desc0085" cont="Combat skill which leaves no mercy to the opponent"/>
+		<msg id="skill_desc0086" cont="A single blow with Chakrams"/>
+		<msg id="skill_desc0087" cont="Jump and hurl away concentrated force"/>
+		<msg id="skill_desc0088" cont="Devastate the enemy with only letting them see the leftover images"/>
+		<msg id="skill_desc0089" cont="A wind like sword dance"/>
+		<msg id="skill_desc0090" cont="A cruel blade distracting the opponent's attention"/>
+		<msg id="skill_desc0091" cont="Divide the earth with a well trained body"/>
+		<msg id="skill_desc0092" cont="Defeat the foe with space collapsing power"/>
+		<msg id="skill_desc0093" cont="Penetrate the enemy's heart with a blade forged from the flames of darkness"/>
+		<msg id="skill_desc0094" cont="A nimble attack to storm everything around"/>
+		<msg id="skill_desc0095" cont="Freeze the enemy with Chakrams reinforced with the chill of the underworld"/>
+		<msg id="skill_desc0096" cont="Destroy the enemy with a lightning slash which separates light and darkness"/>
+		<msg id="skill_desc0097" cont="A blood rust massacre targeting everything"/>
+		<msg id="skill_desc0098" cont="The ultimate power to disintegrate the enemy to elements"/>
+		<msg id="skill_desc0099" cont="Control lightning force to attack anyone blocking the way."/>
+		<msg id="skill_desc0100" cont="Basic long-range magic spell using the force"/>
+		<msg id="skill_desc0101" cont="Arrow attack using the force of earth"/>
+		<msg id="skill_desc0102" cont="Arrow attack with the force of water"/>
+		<msg id="skill_desc0103" cont="Arrow attack using the force of wind"/>
+		<msg id="skill_desc0104" cont="Arrow attack with the force of fire"/>
+		<msg id="skill_desc0105" cont="Arrow attack using the force of ice"/>
+		<msg id="skill_desc0106" cont="Arrow attack using the force of lightning"/>
+		<msg id="skill_desc0107" cont="Shoot the concentrated force to an enemy."/>
+		<msg id="skill_desc0108" cont="Magic skill using the force of earth"/>
+		<msg id="skill_desc0109" cont="Basic magic skill using the force of water"/>
+		<msg id="skill_desc0110" cont="Summon the force of wind to attack"/>
+		<msg id="skill_desc0111" cont="Summon the force of fire to attack"/>
+		<msg id="skill_desc0112" cont="Summon the force of crystal to attack"/>
+		<msg id="skill_desc0113" cont="Summon the force of lightning to attack"/>
+		<msg id="skill_desc0114" cont="Shoot a big mana spear at a target"/>
+		<msg id="skill_desc0115" cont="Penetrating magic attack using the force of earth"/>
+		<msg id="skill_desc0116" cont="Penetrating magic attack using the force of water"/>
+		<msg id="skill_desc0117" cont="Penetrating magic attack using the force of wind"/>
+		<msg id="skill_desc0118" cont="Penetrating magic attack using the force of fire"/>
+		<msg id="skill_desc0119" cont="Summon an icy crystal spear to penetrate a target"/>
+		<msg id="skill_desc0120" cont="Summon a lightning spear to penetrate a target"/>
+		<msg id="skill_desc0121" cont="Create a spear using mana to attack a target"/>
+		<msg id="skill_desc0122" cont="Strike a target with the force of the earth"/>
+		<msg id="skill_desc0123" cont="Strike a target with the force of water"/>
+		<msg id="skill_desc0124" cont="Strike the enemy with a whirlwind."/>
+		<msg id="skill_desc0125" cont="Superior magic spell that uses the force of the flame"/>
+		<msg id="skill_desc0126" cont="Superior magic spell of the ice"/>
+		<msg id="skill_desc0127" cont="Deliver a powerful attack to an enemy with the force of lightning"/>
+		<msg id="skill_desc0128" cont="Summon fire on both hands to attack an enemy"/>
+		<msg id="skill_desc0129" cont="Bind a target on a spot by summoning ice"/>
+		<msg id="skill_desc0130" cont="Detonate an area using one's mental power"/>
+		<msg id="skill_desc0131" cont="Summon crystal shards from the sky to attack a target"/>
+		<msg id="skill_desc0132" cont="Summon a blade of the wind to attack a target"/>
+		<msg id="skill_desc0133" cont="Summon a saucer of the ice to do a wide range attack"/>
+		<msg id="skill_desc0134" cont="A magic spell with the force of the lightning which requires careful use"/>
+		<msg id="skill_desc0135" cont="Summon an explosive toxic substance to attack a target"/>
+		<msg id="skill_desc0136" cont="Create a void in the air which causes an explosion"/>
+		<msg id="skill_desc0137" cont="Vibrate the force of the earth and cause a massive explosion to attack a targets in the distance"/>
+		<msg id="skill_desc0138" cont="Summon a tsunami from the ground to attack enemies within range"/>
+		<msg id="skill_desc0139" cont="Increase the limit of destructive power with conflicting forces"/>
+		<msg id="skill_desc0140" cont="Freeze the air around an enemy to restrict its movement"/>
+		<msg id="skill_desc0141" cont="Create a mirror image that creates a magic circle within an enemy's base, and explode the magic circle to inflict great damage."/>
+		<msg id="skill_desc0142" cont="0"/>
+		<msg id="skill_desc0143" cont="0"/>
+		<msg id="skill_desc0144" cont="Immortal mode ON Never die"/>
+		<msg id="skill_desc0145" cont="Immortal mode OFF Able to die"/>
+		<msg id="skill_desc0146" cont="One Kill Skill for Test"/>
+		<msg id="skill_desc0147" cont="AoE Skill for Test"/>
+		<msg id="skill_desc0148" cont="Create a spiritual arrow to attack a target"/>
+		<msg id="skill_desc0149" cont="Concentrate one's strength to perform a critical attack"/>
+		<msg id="skill_desc0150" cont="Explode one's concentrated energy to the target, disturbing their movement"/>
+		<msg id="skill_desc0151" cont="Shoot a magic arrow that poisons the enemy"/>
+		<msg id="skill_desc0152" cont="Summon an arrow from the shadow of an enemy"/>
+		<msg id="skill_desc0153" cont="Summon a magic drill from the ground to attack an enemy standing on a spot"/>
+		<msg id="skill_desc0154" cont="A powerful attack using seven different kinds of the force"/>
+		<msg id="skill_desc0155" cont="Destructive arrow which distorts the space"/>
+		<msg id="skill_desc0156" cont="Summon numerous meteors from the sky, and inflict great damage to enemies."/>
+		<msg id="skill_desc0157" cont="Penetrate enemy with the energy of the Astral Shield"/>
+		<msg id="skill_desc0158" cont="Throw the Astral Shield to a target"/>
+		<msg id="skill_desc0159" cont="Summon a blade of the force to attack nearby enemies"/>
+		<msg id="skill_desc0160" cont="0"/>
+		<msg id="skill_desc0161" cont="0"/>
+		<msg id="skill_desc0162" cont="0"/>
+		<msg id="skill_desc0163" cont="0"/>
+		<msg id="skill_desc0164" cont="0"/>
+		<msg id="skill_desc0165" cont="0"/>
+		<msg id="skill_desc0166" cont="0"/>
+		<msg id="skill_desc0167" cont="Summons a giant meteor covered in flames."/>
+		<msg id="skill_desc0168" cont="Attack and harass the target at a speed so fast to see."/>
+		<msg id="skill_desc0169" cont="Trap the enemy with ancient ice columns"/>
+		<msg id="skill_desc0170" cont="Shoot a barrage of arrows created by force"/>
+		<msg id="skill_desc0171" cont="Change into a Genocider with ultimate powers"/>
+		<msg id="skill_desc0172" cont="Basic attack skill using an Astral Genocider"/>
+		<msg id="skill_desc0173" cont="Basic attack skill using an Astral Genocider"/>
+		<msg id="skill_desc0174" cont="Level 1 Deadly Blow that can be used by warriors who have mastered Astral Genocide"/>
+		<msg id="skill_desc0175" cont="Level 2 Deadly Blow that can be used by warriors who have mastered Astral Genocide"/>
+		<msg id="skill_desc0176" cont="Level 3 Deadly Blow that can be used by warriors who have mastered Astral Genocide"/>
+		<msg id="skill_desc0177" cont="An ability to maximize the rage against enemies. The max amount of Rage depends to the Battle Style grade. Rage may be acquired by battle, and enhances the character's ability with them"/>
+		<msg id="skill_desc0178" cont="Maximize the attack ability with using rage while sacrificing defense abilities"/>
+		<msg id="skill_desc0179" cont="Replenish HP by pressing down rage"/>
+		<msg id="skill_desc0180" cont="Explode the hidden rage hidden within"/>
+		<msg id="skill_desc0181" cont="Warrior's Shout increases party member morale."/>
+		<msg id="skill_desc0182" cont="Temporarily resist enemy attacks."/>
+		<msg id="skill_desc0183" cont="Add the rage of battle to enhance attack abilities"/>
+		<msg id="skill_desc0184" cont="The legendary shield increases defense of the Gladiator"/>
+		<msg id="skill_desc0185" cont="Battle techniques from hard training"/>
+		<msg id="skill_desc0186" cont="Shield of rage which absorbs damage"/>
+		<msg id="skill_desc0187" cont="Buff is applied after using Hyper Odd Circle"/>
+		<msg id="skill_desc0188" cont="Make the subject shiver in fear and decrease its defense"/>
+		<msg id="skill_desc0189" cont="Strikes enemy with overwhelming power."/>
+		<msg id="skill_desc0190" cont="Hunt enemy by jumping in the air."/>
+		<msg id="skill_desc0191" cont="Envoke holy energy from shield that howls toward enemy."/>
+		<msg id="skill_desc0192" cont="Attacks enemies internally."/>
+		<msg id="skill_desc0193" cont="It detroys the area near targeted object by explosion damage."/>
+		<msg id="skill_desc0194" cont="Shoot a force arrow towards the sky to create a forest of arrows."/>
+		<msg id="skill_desc0195" cont="Ignore penetration passive"/>
+		<msg id="skill_desc0196" cont="The inner rage boosts the secretion of adrenaline, sending the character berserk immune to pain."/>
+		<msg id="skill_desc0200" cont="Increase the damage of a sword by infusing it with mana"/>
+		<msg id="skill_desc0201" cont="Advanced Blade Force"/>
+		<msg id="skill_desc0202" cont="Increase Attack by using mana on the weapon"/>
+		<msg id="skill_desc0203" cont="Concentrate one's mind to increase hit rate"/>
+		<msg id="skill_desc0204" cont="Increase Defense with the force"/>
+		<msg id="skill_desc0205" cont="Increase Defense using your aura"/>
+		<msg id="skill_desc0206" cont="Cry aloud to strike enemies with terror, and disable them"/>
+		<msg id="skill_desc0207" cont="Blader's advanced skill that strikes enemies in the skill's range with terror."/>
+		<msg id="skill_desc0208" cont="Increase movement speed for a short period of time._$47#Unable to use it during Immobility/ move interruption$"/>
+		<msg id="skill_desc0209" cont="Quickly run further away from an enemy._$47#Unable to use it during Immobility/ move interruption$"/>
+		<msg id="skill_desc0210" cont="Immune to Mezz attacks"/>
+		<msg id="skill_desc0211" cont="Increase Evasion by moving quickly"/>
+		<msg id="skill_desc0212" cont="It gives defense to equip to reduce abnormal status"/>
+		<msg id="skill_desc0213" cont="Improve your intuition, and perfectly evade all attacks from enemies"/>
+		<msg id="skill_desc0214" cont="A powerful attack skill that violently shakes the air."/>
+		<msg id="skill_desc0215" cont="Awaken a weapon's latent ability to improve the effect of sword skills."/>
+		<msg id="skill_desc0216" cont="Deliver a powerful blow to a target, and overbalance the target."/>
+		<msg id="skill_desc0217" cont="The Beast Cry excites you and your party's and boosts the willingness to fight."/>
+		<msg id="skill_desc0218" cont="The Beast Cry infuriates you and your party, ultimately increasing your attack power."/>
+		<msg id="skill_desc0219" cont="Increase your health restoration speed."/>
+		<msg id="skill_desc0220" cont="Endow yourself with the spirit of beast, and extend your physical limit."/>
+		<msg id="skill_desc0221" cont="Blood-shedding warrior whose mind is consumed by incontrollable anger."/>
+		<msg id="skill_desc0222" cont="The Powerful Cry boosts your and your party's potentials."/>
+		<msg id="skill_desc0223" cont="A will that enables you to endure enemy's attack, and reflect damage to the enemy."/>
+		<msg id="skill_desc0224" cont="The shadow that absorbs damage for you and your party."/>
+		<msg id="skill_desc0225" cont="Stand firm on your spot, and use a reinforced shiled to guard yourself. "/>
+		<msg id="skill_desc0226" cont="Increase Force Controller's amplification, and improve your magic Attack."/>
+		<msg id="skill_desc0227" cont="Recovers SP by enhancing mentality of the party."/>
+		<msg id="skill_desc0228" cont="Recovers significant amount of HP by enhancing the physical strength."/>
+		<msg id="skill_desc0229" cont="Restores a great amount of health."/>
+		<msg id="skill_desc0230" cont="Gradually restores the HP over time even in battle"/>
+		<msg id="skill_desc0231" cont="Decrease the Attack of a target"/>
+		<msg id="skill_desc0232" cont="Increase the defense of oneself or a party member"/>
+		<msg id="skill_desc0233" cont="Silences the enemies with thunderbolts"/>
+		<msg id="skill_desc0234" cont="Instantly teleport to a short distance._$47#Unable to use it during Immobility/ move interruption$"/>
+		<msg id="skill_desc0235" cont="Strengthens your and your party's defense and  resistance."/>
+		<msg id="skill_desc0236" cont="Increases the target's HP, MP, and defense power with the power of Force."/>
+		<msg id="skill_desc0237" cont="Increase Attack rate and Defense rate"/>
+		<msg id="skill_desc0238" cont="Increase the caster's defense rank"/>
+		<msg id="skill_desc0239" cont="Decrease the attack rate of an enemy"/>
+		<msg id="skill_desc0240" cont="Increase the caster's attack rate and attack range"/>
+		<msg id="skill_desc0241" cont="Weakens the target's Accuracy, Attack Rate, and Defense Power."/>
+		<msg id="skill_desc0242" cont="Finely shapes the target with the power of Force to increase the target's Attack, Magic Attack, Attack Rate, and Defense Rate."/>
+		<msg id="skill_desc0243" cont="Increase Magic Attack Attack"/>
+		<msg id="skill_desc0244" cont="Increase Maximum HP"/>
+		<msg id="skill_desc0245" cont="Restores a great amount of HP"/>
+		<msg id="skill_desc0246" cont="Greatly increase the HP restoration rate for a short duration"/>
+		<msg id="skill_desc0247" cont="Recovers your and your party's HP."/>
+		<msg id="skill_desc0248" cont="Increase damage with critical attacks"/>
+		<msg id="skill_desc0249" cont="Recovers self HP"/>
+		<msg id="skill_desc0250" cont="Increase defense with the Astral Shield"/>
+		<msg id="skill_desc0251" cont="Use Astral Shield's energy to inflict critical damage to an enemy in exchange with your life."/>
+		<msg id="skill_desc0252" cont="Enchant a sword with magic"/>
+		<msg id="skill_desc0253" cont="Strengthen Armor with the power of the earth"/>
+		<msg id="skill_desc0254" cont="Increase the HP and MP restoration rate with the power of the water"/>
+		<msg id="skill_desc0255" cont="Increase the attack rate and the defense rate with the power of the wind"/>
+		<msg id="skill_desc0256" cont="Enchant a sword with the power of the fire"/>
+		<msg id="skill_desc0257" cont="Decrease the defense rate of an enemy"/>
+		<msg id="skill_desc0258" cont="Enchant a sword with the power of the lightning"/>
+		<msg id="skill_desc0259" cont="Enchant a sword with the power of the ice"/>
+		<msg id="skill_desc0261" cont="Concentrate your energy, to curse a target, and bind the target on one spot."/>
+		<msg id="skill_desc0262" cont="A wheel of infinite misfortune."/>
+		<msg id="skill_desc0264" cont="0"/>
+		<msg id="skill_desc0265" cont="0"/>
+		<msg id="skill_desc0266" cont="0"/>
+		<msg id="skill_desc0267" cont="0"/>
+		<msg id="skill_desc0268" cont="My curse will sail against the wind, and enrage the earth."/>
+		<msg id="skill_desc0269" cont="Temporarily limits the maximum amount of MP that the opponent can control."/>
+		<msg id="skill_desc0270" cont="Decrease the level of multiple enemies."/>
+		<msg id="skill_desc0271" cont="Bind multiple enemies on their spots."/>
+		<msg id="skill_desc0272" cont="Shoot an arrow that forcefully pushes back a target."/>
+		<msg id="skill_desc0273" cont="Reinforce healing skills, and increase their effects."/>
+		<msg id="skill_desc0274" cont="Stand firm on your spot, and concentrate your energy to increase a chance of attacking an enemy's vital point."/>
+		<msg id="skill_desc0275" cont="Enhances a character's Attack ability within the Mission Battlefield."/>
+		<msg id="skill_desc0276" cont="Enhances a character's Defense ability within the Mission Battlefield."/>
+		<msg id="skill_desc0277" cont="Enhances character abilities with the Ice Lord's will"/>
+		<msg id="skill_desc0278" cont="Enhances character abilities with the Ice Guardian's Blessing"/>
+		<msg id="skill_desc0279" cont="0"/>
+		<msg id="skill_desc0280" cont="0"/>
+		<msg id="skill_desc0281" cont="0"/>
+		<msg id="skill_desc0282" cont="0"/>
+		<msg id="skill_desc0283" cont="0"/>
+		<msg id="skill_desc0284" cont="0"/>
+		<msg id="skill_desc0285" cont="Buff based on Boss Battle participants"/>
+		<msg id="skill_desc0286" cont="Buff based on Boss Battle fortress turn"/>
+		<msg id="skill_desc0287" cont="Increase Magic Attack"/>
+		<msg id="skill_desc0288" cont="Focus and create a Force Sheild to repel damage"/>
+		<msg id="skill_desc0289" cont="Move quickly to evade the enemies' attack"/>
+		<msg id="skill_desc0290" cont="Reflect some damage using the Astral Shield"/>
+		<msg id="skill_desc0291" cont="Enhances the Penetration ability by the power of magic"/>
+		<msg id="skill_desc0292" cont="Strengthen the body with the power of elements"/>
+		<msg id="skill_desc0293" cont="Enhances character's attack related stats"/>
+		<msg id="skill_desc0294" cont="Enhances character's defense related stats"/>
+		<msg id="skill_desc0295" cont="Enhances character's critical related stats"/>
+		<msg id="skill_desc0296" cont="Enhances character's resistance related stats"/>
+		<msg id="skill_desc0297" cont="Increases the character's regeneration like a Troll"/>
+		<msg id="skill_desc0298" cont="Enhances the character with the breath of the Dragon"/>
+		<msg id="skill_desc0299" cont="Concentrate to increase spell success rate"/>
+		<msg id="skill_desc0300" cont="Increase the amount of Maximum HP by physical training"/>
+		<msg id="skill_desc0301" cont="Increase the amount of Maximum MP through spiritual meditation"/>
+		<msg id="skill_desc0302" cont="Increase Attack by practicing the sense of attack"/>
+		<msg id="skill_desc0303" cont="Increase Defense by practicing the sense of defense"/>
+		<msg id="skill_desc0304" cont="Increase Magic Attack by practicing force management"/>
+		<msg id="skill_desc0305" cont="Increase Defense Rate"/>
+		<msg id="skill_desc0306" cont="Increase Attack Rate"/>
+		<msg id="skill_desc0307" cont="Transfer sword Skill EXP to magic skill points"/>
+		<msg id="skill_desc0308" cont="Transfer magic Skill EXP to sword skill points"/>
+		<msg id="skill_desc0310" cont="Increase Attack Rate with eyes of mind"/>
+		<msg id="skill_desc0311" cont="Increase Defense Rate with Honorable Sense"/>
+		<msg id="skill_desc0312" cont="Increase Magic Attack by enlarging force control"/>
+		<msg id="skill_desc0313" cont="Increase Attack with efficient hit"/>
+		<msg id="skill_desc0314" cont="Increase Defense by absorbing partial amount of damage"/>
+		<msg id="skill_desc0329" cont="Imaginate a sword with Force"/>
+		<msg id="skill_desc0330" cont="Visualizes a gun using the Force."/>
+		<msg id="skill_desc0331" cont="Visualize a magic bow using one's force"/>
+		<msg id="skill_desc0332" cont="Visualize a magic shield using one's force"/>
+		<msg id="skill_desc0333" cont="Enchanted with Earth Force Aura"/>
+		<msg id="skill_desc0334" cont="Enchanted with Aqua Force Aura"/>
+		<msg id="skill_desc0335" cont="Enchanted with Wind Force Aura"/>
+		<msg id="skill_desc0336" cont="Enchanted with Flame Force Aura"/>
+		<msg id="skill_desc0337" cont="Enchanted with Ice Force Aura"/>
+		<msg id="skill_desc0338" cont="Enchanted with Lightening Force Aura"/>
+		<msg id="skill_desc0339" cont=""/>
+		<msg id="skill_desc0340" cont="Turns its user into an invincible warrior"/>
+		<msg id="skill_desc0341" cont="Turns its user into an Astral Lancing warrior"/>
+		<msg id="skill_desc0342" cont="Enables its user to do a supersonic attack on a target"/>
+		<msg id="skill_desc0343" cont="Turns its user into an Astral Claw using warrior"/>
+		<msg id="skill_desc0344" cont="Increase mana consumption to improve the abilities"/>
+		<msg id="skill_desc0345" cont="Enables its user to cast two magic spells at the same time"/>
+		<msg id="skill_desc0346" cont="Enables its user to attack many targets at once"/>
+		<msg id="skill_desc0347" cont="Combine 2 Astral Guns to inflict more damage. Can substitute for normal attack."/>
+		<msg id="skill_desc0348" cont="Counter attack an enemy with the Astral Shield"/>
+		<msg id="skill_desc0349" cont="A warrior with the Astral Blade Shield"/>
+		<msg id="skill_desc0350" cont="Endow a sword with powerful force"/>
+		<msg id="skill_desc0351" cont="Transform into an Astral Charger warrior."/>
+		<msg id="skill_desc0352" cont="Reveal the ancient power hidden in Chakrams"/>
+		<msg id="skill_desc0353" cont="Turn into a warrior which uses Astral Deathscyther"/>
+		<msg id="skill_desc0360" cont="0"/>
+		<msg id="skill_desc0361" cont="0"/>
+		<msg id="skill_desc0362" cont="0"/>
+		<msg id="skill_desc0363" cont="0"/>
+		<msg id="skill_desc0364" cont="0"/>
+		<msg id="skill_desc0365" cont="0"/>
+		<msg id="skill_desc0366" cont="0"/>
+		<msg id="skill_desc0367" cont="0"/>
+		<msg id="skill_desc0380" cont="0"/>
+		<msg id="skill_desc0381" cont="0"/>
+		<msg id="skill_desc0382" cont="0"/>
+		<msg id="skill_desc0383" cont="0"/>
+		<msg id="skill_desc0384" cont="0"/>
+		<msg id="skill_desc0385" cont="0"/>
+		<msg id="skill_desc0386" cont="0"/>
+		<msg id="skill_desc0387" cont="0"/>
+		<msg id="skill_desc0388" cont="0"/>
+		<msg id="skill_desc0389" cont="0"/>
+		<msg id="skill_desc0390" cont="0"/>
+		<msg id="skill_desc0391" cont="0"/>
+		<msg id="skill_desc0392" cont="0"/>
+		<msg id="skill_desc0393" cont="0"/>
+		<msg id="skill_desc0394" cont="0"/>
+		<msg id="skill_desc0395" cont=""/>
+		<msg id="skill_desc0396" cont=""/>
+		<msg id="skill_desc0397" cont=""/>
+		<msg id="skill_desc0398" cont=""/>
+		<msg id="skill_desc0399" cont="A critical crushing attack which disables the enemy"/>
+		<msg id="skill_desc0400" cont="Disturb enemy movements by throwing the Astral Lance"/>
+		<msg id="skill_desc0401" cont="0"/>
+		<msg id="skill_desc0402" cont="A critical attack that delivers instant death to a target"/>
+		<msg id="skill_desc0403" cont="0"/>
+		<msg id="skill_desc0404" cont="Cast every possible elemental magic spell at once"/>
+		<msg id="skill_desc0405" cont="0"/>
+		<msg id="skill_desc0406" cont="Combine Astral Guns on both hands to deal a great amount of damage to a target"/>
+		<msg id="skill_desc0407" cont="0"/>
+		<msg id="skill_desc0408" cont="Destroy everything around the caster with the power of lightning"/>
+		<msg id="skill_desc0409" cont="0"/>
+		<msg id="skill_desc0410" cont="Destroy everything around the caster with the power of the prismatic blade"/>
+		<msg id="skill_desc0411" cont="0"/>
+		<msg id="skill_desc0412" cont="0"/>
+		<msg id="skill_desc0413" cont="0"/>
+		<msg id="skill_desc0414" cont="0"/>
+		<msg id="skill_desc0418" cont="0"/>
+		<msg id="skill_desc0419" cont="A combo battle mode that enables you to cast skills in a consecutive manner if the skills are used at right times."/>
+		<msg id="skill_desc0420" cont="Summon an Astral Bike"/>
+		<msg id="skill_desc0421" cont="Combo skill to summon Board. Use frequently exclusive skill on time."/>
+		<msg id="skill_desc0422" cont="Combo skill to summon Bike. Use frequently exclusive skill on time."/>
+		<msg id="skill_desc0423" cont="0"/>
+		<msg id="skill_desc0424" cont="Basic long-range magic spell using the force"/>
+		<msg id="skill_desc0425" cont="Arrow attack using the force of earth"/>
+		<msg id="skill_desc0426" cont="Arrow attack with the force of water"/>
+		<msg id="skill_desc0427" cont="Arrow attack using the force of wind"/>
+		<msg id="skill_desc0428" cont="Arrow attack with the force of fire"/>
+		<msg id="skill_desc0429" cont="Arrow attack using the force of ice"/>
+		<msg id="skill_desc0430" cont="Arrow attack using the force of lightning"/>
+		<msg id="skill_desc0431" cont="Shoot the concentrated force to an enemy."/>
+		<msg id="skill_desc0432" cont="Magic skill using the force of earth"/>
+		<msg id="skill_desc0433" cont="Basic magic skill using the force of water"/>
+		<msg id="skill_desc0434" cont="Summon the force of wind to attack"/>
+		<msg id="skill_desc0435" cont="Summon the force of fire to attack"/>
+		<msg id="skill_desc0436" cont="Summon the force of crystal to attack"/>
+		<msg id="skill_desc0437" cont="Summon the force of lightning to attack"/>
+		<msg id="skill_desc0438" cont="Shoot a big mana spear at a target"/>
+		<msg id="skill_desc0439" cont="Penetrating magic attack using the force of earth"/>
+		<msg id="skill_desc0440" cont="Penetrating magic attack using the force of water"/>
+		<msg id="skill_desc0441" cont="Penetrating magic attack using the force of wind"/>
+		<msg id="skill_desc0442" cont="Penetrating magic attack using the force of fire"/>
+		<msg id="skill_desc0443" cont="Summon an icy crystal spear to penetrate a target"/>
+		<msg id="skill_desc0444" cont="Summon a lightning spear to penetrate a target"/>
+		<msg id="skill_desc0445" cont="Create a spear using mana to attack a target"/>
+		<msg id="skill_desc0446" cont="Strike a target with the force of the earth"/>
+		<msg id="skill_desc0447" cont="Strike a target with the force of water"/>
+		<msg id="skill_desc0448" cont="Strike the enemy with a whirlwind."/>
+		<msg id="skill_desc0449" cont="Superior magic spell that uses the force of the flame"/>
+		<msg id="skill_desc0450" cont="Superior magic spell of the ice"/>
+		<msg id="skill_desc0451" cont="Deliver a powerful attack to an enemy with the force of lightning"/>
+		<msg id="skill_desc0452" cont="Summon an Astral Board"/>
+		<msg id="skill_desc0453" cont="Summon an Astral Board"/>
+		<msg id="skill_desc0454" cont="Force Tower Buff - Attack UP"/>
+		<msg id="skill_desc0455" cont="Force Tower Buff - Defense UP"/>
+		<msg id="skill_desc0456" cont="Force Tower Buff - Resist Critical DMG/Skill AMP UP"/>
+		<msg id="skill_desc0457" cont="Force Tower Debuff - Attack DOWN"/>
+		<msg id="skill_desc0458" cont="Force Tower Debuff - Defense DOWN"/>
+		<msg id="skill_desc0459" cont="Force Tower Debuff - HP Decrease"/>
+		<msg id="skill_desc0460" cont="This blessing skill is a token of our GM's appreciation for your support. Available Skill Class: Beginner"/>
+		<msg id="skill_desc0461" cont="This blessing skill is a token of our GM's appreciation for your support. Available Skill Class: Intermediate"/>
+		<msg id="skill_desc0462" cont="This blessing skill is a token of our GM's appreciation for your support. Available Skill Class: Advanced"/>
+		<msg id="skill_desc0463" cont="A skill that the GMs use in case of emergency."/>
+		<msg id="skill_desc0464" cont="0"/>
+		<msg id="skill_desc0465" cont="0"/>
+		<msg id="skill_desc0466" cont="0"/>
+		<msg id="skill_desc0467" cont="0"/>
+		<msg id="skill_desc0468" cont="Reinforce your physical strength using the power of Force."/>
+		<msg id="skill_desc0469" cont="Using a power concentrated on your shield, attract multiple monsters."/>
+		<msg id="skill_desc0470" cont="Increases your and your party's ability to attack."/>
+		<msg id="skill_desc0471" cont="Releases the unmovable status"/>
+		<msg id="skill_desc0472" cont="Temporarily improves your and your party's dodge ability on debuff skills."/>
+		<msg id="skill_desc0473" cont="Temporarily Improves your and your party's critical attack."/>
+		<msg id="skill_desc0474" cont="Enhance physical abilities by consuming Saint's Forcecalibur's internal energy."/>
+		<msg id="skill_desc0475" cont="Use Astral Axe for a powerful and destructive attack."/>
+		<msg id="skill_desc0476" cont="Use Astral Knucklet for a quick and deadly attack."/>
+		<msg id="skill_desc0477" cont="Dominate the elements that compose this world to inflict high damage."/>
+		<msg id="skill_desc0478" cont="Punish those who are against you with your Astral Launcher."/>
+		<msg id="skill_desc0479" cont="Use Astral Hammer for powerful attack."/>
+		<msg id="skill_desc0480" cont="Split a sword with force and handle them with ease."/>
+		<msg id="skill_desc0481" cont="Basic attack using Astral Axe."/>
+		<msg id="skill_desc0482" cont="Basic attack using Astral Axe."/>
+		<msg id="skill_desc0483" cont="Level 1 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0484" cont="Level 2 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0485" cont="Level 3 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0486" cont="Basic attack using Astral Knucklet."/>
+		<msg id="skill_desc0487" cont="Basic attack using Astral Knucklet."/>
+		<msg id="skill_desc0488" cont="Level 1 Deadly Blow that can be used by warriors who have mastered Astral Knucklet."/>
+		<msg id="skill_desc0489" cont="Level 2 Deadly Blow that can be used by warriors who have mastered Astral Knucklet."/>
+		<msg id="skill_desc0490" cont="Level 3 Deadly Blow that can be used by warriors who have mastered Astral Knucklet."/>
+		<msg id="skill_desc0491" cont="Basic attack skill for inflicting elemental damage."/>
+		<msg id="skill_desc0492" cont="Basic attack skill for inflicting elemental damage."/>
+		<msg id="skill_desc0493" cont="Level 1 Deadly Blow that can be used by warriors who have completely dominated elements can use."/>
+		<msg id="skill_desc0494" cont="Level 2 Deadly Blow that can be used by warriors who have completely dominated elements can use."/>
+		<msg id="skill_desc0495" cont="Level 3 Deadly Blow that can be used by warriors who have completely dominated elements can use."/>
+		<msg id="skill_desc0496" cont="Basic attack using Astral Launcher."/>
+		<msg id="skill_desc0497" cont="Basic attack using Astral Launcher."/>
+		<msg id="skill_desc0498" cont="Level 1 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0499" cont="Level 2 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0500" cont="Level 3 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0501" cont="Basic attack using Astral Hammer."/>
+		<msg id="skill_desc0502" cont="Basic attack using Astral Hammer."/>
+		<msg id="skill_desc0503" cont="Level 1 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0504" cont="Level 2 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0505" cont="Level 3 Deadly Blow that can be used by warriors who have mastered Astral Axe."/>
+		<msg id="skill_desc0506" cont="Basic Split Attack using Force"/>
+		<msg id="skill_desc0507" cont="Basic Split Attack using Force"/>
+		<msg id="skill_desc0508" cont="Level 1 Deadly Blow that can be used by those warriors who can reshape the sword with ultimate Force."/>
+		<msg id="skill_desc0509" cont="Level 2 Deadly Blow that can be used by those warriors who can reshape the sword with ultimate Force."/>
+		<msg id="skill_desc0510" cont="Level 3 Deadly Blow that can be used by those warriors who can reshape the sword with ultimate Force."/>
+		<msg id="skill_desc0511" cont="It's our gratitude towards your love for the character."/>
+		<msg id="skill_desc0512" cont="Awakens a Force Gunner to boost the power of Force."/>
+		<msg id="skill_desc0513" cont="Reshapes the Astral Gun into a Heavy Launcher."/>
+		<msg id="skill_desc0514" cont=""/>
+		<msg id="skill_desc0515" cont=""/>
+		<msg id="skill_desc0516" cont=""/>
+		<msg id="skill_desc0517" cont=""/>
+		<msg id="skill_desc0518" cont="Bombards the ground from the sky."/>
+		<msg id="skill_desc0519" cont="Turn into a stronger and faster Hit Man by using the new technology."/>
+		<msg id="skill_desc0520" cont="Hit Man's Basic Attack"/>
+		<msg id="skill_desc0521" cont="Hit Man's Basic Attack"/>
+		<msg id="skill_desc0522" cont="Deadly attack (Grade 1) that only the Hit Man who has mastered killing skills can use."/>
+		<msg id="skill_desc0523" cont="Deadly attack (Grade 2) that only the Hit Man who has mastered killing skills can use."/>
+		<msg id="skill_desc0524" cont="Deadly attack (Grade 3) that only the Hit Man who has mastered killing skills can use."/>
+		<msg id="skill_desc0525" cont="Basic long-range magic spell using the force"/>
+		<msg id="skill_desc0526" cont="Arrow attack using the force of earth"/>
+		<msg id="skill_desc0527" cont="Arrow attack with the force of water"/>
+		<msg id="skill_desc0528" cont="Arrow attack using the force of wind"/>
+		<msg id="skill_desc0529" cont="Arrow attack with the force of fire"/>
+		<msg id="skill_desc0530" cont="Arrow attack using the force of ice"/>
+		<msg id="skill_desc0531" cont="Arrow attack using the force of lightning"/>
+		<msg id="skill_desc0532" cont="Shoot the concentrated force to an enemy."/>
+		<msg id="skill_desc0533" cont="Magic skill using the force of earth"/>
+		<msg id="skill_desc0534" cont="Basic magic skill using the force of water"/>
+		<msg id="skill_desc0535" cont="Summon the force of wind to attack."/>
+		<msg id="skill_desc0536" cont="Summon the force of fire to attack"/>
+		<msg id="skill_desc0537" cont="Summon the force of crystal to attack"/>
+		<msg id="skill_desc0538" cont="Summon the force of lightning to attack"/>
+		<msg id="skill_desc0539" cont="Shoot a big mana spear at a target"/>
+		<msg id="skill_desc0540" cont="Penetrating magic attack using the force of earth"/>
+		<msg id="skill_desc0541" cont="Penetrating magic attack using the force of water"/>
+		<msg id="skill_desc0542" cont="Penetrating magic attack using the force of wind"/>
+		<msg id="skill_desc0543" cont="Penetrating magic attack using the force of fire"/>
+		<msg id="skill_desc0544" cont="Summon an icy crystal spear to penetrate a target"/>
+		<msg id="skill_desc0545" cont="Summon a lightning spear to penetrate a target"/>
+		<msg id="skill_desc0546" cont="Create a spear using mana to attack a target"/>
+		<msg id="skill_desc0547" cont="Strike a target with the force of the earth"/>
+		<msg id="skill_desc0548" cont="Strike a target with the force of water"/>
+		<msg id="skill_desc0549" cont="Strike the enemy with a whirlwind."/>
+		<msg id="skill_desc0550" cont="Superior magic spell that uses the force of the flame"/>
+		<msg id="skill_desc0551" cont="Superior magic spell of the ice"/>
+		<msg id="skill_desc0552" cont="Deliver a powerful attack to an enemy with the force of lightning"/>
+		<msg id="skill_desc0553" cont="Aim and fire at the target."/>
+		<msg id="skill_desc0554" cont="Aim and fire at the target's weak points."/>
+		<msg id="skill_desc0555" cont="Fire off a round of slugs."/>
+		<msg id="skill_desc0556" cont="Fire a powerful bullet to defeat the target."/>
+		<msg id="skill_desc0557" cont="Cause an explosion by using the Force and bullets."/>
+		<msg id="skill_desc0558" cont="Fire off a round of slugs and the Force."/>
+		<msg id="skill_desc0559" cont="Compress the power of the Force and release it on the ground."/>
+		<msg id="skill_desc0560" cont="Slugs are fired by using the Force, and the shock wave creates a moving fog."/>
+		<msg id="skill_desc0561" cont="Operation code used to escape when surrounded by enemies. Attacks all surroundings."/>
+		<msg id="skill_desc0562" cont="Fire a bullet containing ionized Force."/>
+		<msg id="skill_desc0563" cont="Attack from the air by using a small satellite drone."/>
+		<msg id="skill_desc0564" cont="Create a red glow on the horizon with a small missile made of the Force."/>
+		<msg id="skill_desc0565" cont="Fire a volatile bullet at a high speed using the Force."/>
+		<msg id="skill_desc0566" cont="Fire missiles at and around the target."/>
+		<msg id="skill_desc0567" cont="Attack using large amount of bullets to dominate a large area."/>
+		<msg id="skill_desc0568" cont="Destroy everything in the front with a robot with the code name, 'Little Mouse'."/>
+		<msg id="skill_desc0569" cont="Requesting a Valkyrie air support."/>
+		<msg id="skill_desc0570" cont="Attack the target by using the dark side of the Force."/>
+		<msg id="skill_desc0571" cont="Order the mechanized corps to open fire for a wide range attack."/>
+		<msg id="skill_desc0572" cont="Create internal explosion by amplifying the Force with the rod stuck on the ground."/>
+		<msg id="skill_desc0573" cont="Temporarily strengthen your skills with the invisible unbounding force."/>
+		<msg id="skill_desc0574" cont="Dodge and block enemy's attacks by using a new lightweight material that reacts to damage."/>
+		<msg id="skill_desc0575" cont="Enhances the target's skills by increasing its morale."/>
+		<msg id="skill_desc0576" cont="Leave a mark on the target to attack the weak points."/>
+		<msg id="skill_desc0577" cont="Increase accuracy to focus on the target better."/>
+		<msg id="skill_desc0578" cont="Increase the level of accuracy by considering every element such as target point, surrounding area, and timing."/>
+		<msg id="skill_desc0579" cont="Improve equipments and body to be like an impregnable fort."/>
+		<msg id="skill_desc0580" cont="Continuously test real-like mock battles through image training."/>
+		<msg id="skill_desc0581" cont="A buff for Platinum customers!"/>
+		<msg id="skill_desc0582" cont="A rare buff for Platinum customers!"/>
+		<msg id="skill_desc0583" cont="A unique buff for Platinum customers!"/>
+		<msg id="skill_desc0584" cont="An epic buff for Platinum customers!"/>
+		<msg id="skill_desc0585" cont="A master buff for Platinum customers!"/>
+		<msg id="skill_desc0586" cont="A legend buff for Platinum customers!"/>
+		<msg id="skill_desc0587" cont="This blessing skill is a token of our GM's appreciation for your support. Available Skill Class: Expert"/>
+		<msg id="skill_desc0588" cont="Force Wing improves character movement speed."/>
+		<msg id="skill_desc0589" cont="Force Wing attacks together."/>
+		<msg id="skill_desc0590" cont="Force Wing guards you from enemy's attack, ignore Mezz attack."/>
+		<msg id="skill_desc0591" cont="Guard enemy's attack by condensed power of Force."/>
+		<msg id="skill_desc0592" cont="Legend Arena exclusive buff"/>
+		<msg id="skill_desc0593" cont="Proof of overcoming the hardship with Friends."/>
+		<msg id="skill_desc0594" cont="Blessing for those who have completed the collection in the spirit of exloration."/>
+		<msg id="skill_desc0595" cont="Blessing for those who have completed the collection in the spirit of exloration."/>
+		<msg id="skill_desc0596" cont="Blessing for those who have completed the collection in the spirit of exloration."/>
+		<msg id="skill_desc0597" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0598" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0599" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0600" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0601" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0602" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0603" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0604" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0605" cont="Increase attack in madness, neglecting defense. Target is focused."/>
+		<msg id="skill_desc0606" cont="Increase attack in madness, neglecting defense."/>
+		<msg id="skill_desc0607" cont="Increase attack by putting power of destruction into the sword."/>
+		<msg id="skill_desc0608" cont="Increase attack by removing force ability restriction. Target is focused."/>
+		<msg id="skill_desc0609" cont="Increase attack by removing force ability restriction."/>
+		<msg id="skill_desc0610" cont="Increase attack by intuition."/>
+		<msg id="skill_desc0611" cont="Increase Attack rate for active defense."/>
+		<msg id="skill_desc0612" cont="Increase attack by bursting out the power of elements."/>
+		<msg id="skill_desc0613" cont="Attack rate increases covered by rage."/>
+		<msg id="skill_desc0614" cont="Increase attack by overheating the weapon."/>
+		<msg id="skill_desc0615" cont="Gains endurance of a Beast."/>
+		<msg id="skill_desc0616" cont="Gains excellent evation and restoration abilities."/>
+		<msg id="skill_desc0617" cont="Gains a protective film made by the power of force."/>
+		<msg id="skill_desc0618" cont="Become invisible and be safe from all attacks."/>
+		<msg id="skill_desc0619" cont="Gains Defense as strong as a fortress."/>
+		<msg id="skill_desc0620" cont="Gains defense effect according to the element."/>
+		<msg id="skill_desc0621" cont="Gains Defense that doens't break easily."/>
+		<msg id="skill_desc0622" cont="Can endure more attacks with extra gloves obtained."/>
+		<msg id="skill_desc0623" cont="Enhance the strength of mind to restore SP."/>
+		<msg id="skill_desc0624" cont="Fix target's attention to oneself for a period of time."/>
+		<msg id="skill_desc0625" cont="Enhance Warrior's abilties."/>
+		<msg id="skill_desc0626" cont="Enhance Blader's abilties."/>
+		<msg id="skill_desc0627" cont="Enhance Wizard's abilties."/>
+		<msg id="skill_desc0628" cont="Enhance Force Archer's abilties."/>
+		<msg id="skill_desc0629" cont="Enhance Force Shielder's abilties."/>
+		<msg id="skill_desc0630" cont="Enhance Force Blader's abilties."/>
+		<msg id="skill_desc0631" cont="Enhance Gladiator's abilties."/>
+		<msg id="skill_desc0632" cont="Enhance Force Gunner's abilties."/>
+		<msg id="skill_desc0633" cont="Fires a Force with the power of an Evil Spirit."/>
+		<msg id="skill_desc0634" cont="Fires an arrow made of bones. "/>
+		<msg id="skill_desc0635" cont="Fires an arrow with the Force of the Dark."/>
+		<msg id="skill_desc0636" cont="Creates a Black Explosion under the feet of the enemy."/>
+		<msg id="skill_desc0637" cont="Attacks enemy with the Force of a strong Evil Spirit."/>
+		<msg id="skill_desc0638" cont="Attacks enemy with strengthened spear. "/>
+		<msg id="skill_desc0639" cont="Attacks enemy by strengthened arrow with power of the dark. "/>
+		<msg id="skill_desc0640" cont="Causes damage to surrounding by spreading Dark Force."/>
+		<msg id="skill_desc0641" cont="Skulls drop from the sky and explode."/>
+		<msg id="skill_desc0642" cont="Creates Dark Waves on the ground and penetrates the enemy."/>
+		<msg id="skill_desc0643" cont="Spikes rise from the ground and penentrates the enemy."/>
+		<msg id="skill_desc0644" cont="Spreads Dark energy to the surrounding. "/>
+		<msg id="skill_desc0645" cont="Two spirits flew crossing eachother and exploded."/>
+		<msg id="skill_desc0646" cont="Damage the surroundings by covering the ground with venom."/>
+		<msg id="skill_desc0647" cont="Three evil spirits are attacking the enemy as if they were dancing."/>
+		<msg id="skill_desc0648" cont="Damage the surroundings by throwing the concentrated force to the enemy."/>
+		<msg id="skill_desc0649" cont="Vines appear from the ground to stop movement of the enemy."/>
+		<msg id="skill_desc0650" cont="Evil spirits are damaging the surroundings of the enemies."/>
+		<msg id="skill_desc0651" cont="Sucks the energy of the opponent."/>
+		<msg id="skill_desc0652" cont="Summons a pillar that blows mist of poison. "/>
+		<msg id="skill_desc0653" cont="Penetrates enemy with sharp chains."/>
+		<msg id="skill_desc0654" cont="Summons a pillar that blows mist of curse. "/>
+		<msg id="skill_desc0655" cont="Destroy surrounding area with the giant magic circle of blood."/>
+		<msg id="skill_desc0656" cont="Black meteors falling from the air are destroying the surroundings."/>
+		<msg id="skill_desc0657" cont="Summons a pillar that blows mist of blood. "/>
+		<msg id="skill_desc0658" cont="Slaughter every surroundings with a demon-possessed right hand."/>
+		<msg id="skill_desc0659" cont="Spirits ascend and drain life out of the livings."/>
+		<msg id="skill_desc0660" cont="Evil spirits from 6 coffins are raging around."/>
+		<msg id="skill_desc0661" cont="Causes damage to surrounding by exploding nearby corpses."/>
+		<msg id="skill_desc0662" cont="Cajoler swiftly slashes enemies."/>
+		<msg id="skill_desc0663" cont="Strengthen the body by pulling up the power of the soul."/>
+		<msg id="skill_desc0664" cont="Transform into an Astral Grimoire Dark Mage."/>
+		<msg id="skill_desc0665" cont=""/>
+		<msg id="skill_desc0666" cont=""/>
+		<msg id="skill_desc0667" cont="Destroy everything in the front with powerful magic summoned from grimoire."/>
+		<msg id="skill_desc0668" cont="Awaken to a demon-looking warrior by self possessing the power of spirit."/>
+		<msg id="skill_desc0669" cont="Demon Trigger's Basic Attack"/>
+		<msg id="skill_desc0670" cont="Demon Trigger's Basic Attack"/>
+		<msg id="skill_desc0671" cont="Fatal Attack Stage 1 that warriors who have entirely absorbed the power of soul can use."/>
+		<msg id="skill_desc0672" cont="Fatal Attack Stage 2 that warriors who have entirely absorbed the power of soul can use."/>
+		<msg id="skill_desc0673" cont="Fatal Attack Stage 3 that warriors who have entirely absorbed the power of soul can use."/>
+		<msg id="skill_desc0674" cont="Enhance physical ability by using some of the Force condensed in the Saint's Forcecalibur."/>
+		<msg id="skill_desc0675" cont="Increase Defense ability with power of Force surrounded."/>
+		<msg id="skill_desc0676" cont="Reduce defense ability with curse of powerlessness."/>
+		<msg id="skill_desc0677" cont="Reduce HP and health restoration speed with curse of bleeding."/>
+		<msg id="skill_desc0678" cont="Reduce movement interrupt and movement speed with a spell."/>
+		<msg id="skill_desc0679" cont="Put a curse to restrict target's HP restoration. $47#Once the target is in irrecoverable condition, potions or skills to restore HP will not be effective.$ "/>
+		<msg id="skill_desc0680" cont="Reduce resistance with curse of weakening."/>
+		<msg id="skill_desc0681" cont="Silences the opponent to prevent from using skill."/>
+		<msg id="skill_desc0682" cont="Wears a protiection made by bones and absorbs enemies damage."/>
+		<msg id="skill_desc0683" cont="Turn target into stone with Stone Curse. $47#When in stone curse, target is unable to use Attack / Movement / Restoration Items.$"/>
+		<msg id="skill_desc0684" cont="Uses blood as a sacrifice to enhance Attack ability."/>
+		<msg id="skill_desc0685" cont="Instantly increase physical ability by bringing up soul power to the extreme."/>
+		<msg id="skill_desc0686" cont="Instantly increase HP and Defense ability with blessing of blood."/>
+		<msg id="skill_desc0687" cont="Enhance Dark Mage's abilties."/>
+		<msg id="skill_desc0688" cont="Recover a certain percent of HP."/>
+		<msg id="skill_desc0689" cont="Gains a protective film to protect one from the surrounding. "/>
+		<msg id="skill_desc0690" cont="Concentrate one's mind to increase attack rate and defense rate."/>
+		<msg id="skill_desc0691" cont="Focus more on magic to encrease magic attack."/>
+		<msg id="skill_desc0692" cont="Enhance Skill Amp. with power of soul."/>
+		<msg id="skill_desc0693" cont="This blessing skill is a token of our GM's appreciation for your support. Available Skill Class: Master"/>
+		<msg id="skill_desc0694" cont="Those who conquer the central sanctum, shall gain strength."/>
+		<msg id="skill_desc0695" cont="Those who conquer the lower sanctum, shall gain strength."/>
+		<msg id="skill_desc0696" cont="Bringer's Overpower that storms the battlefield"/>
+		<msg id="skill_desc0697" cont="Powerful Attack of Force Tower"/>
+		<msg id="skill_desc0698" cont="Unbind the power to overwhelm the enemy"/>
+		<msg id="skill_desc0699" cont="It's a power that is given to warriors who have overcome the Infinite Ordeal."/>
+		<msg id="skill_desc0700" cont="You can advance quickly under the Guardian's protection. $47#Cannot be applied with Blader's Intuition / Force Archer's Spirit Walk / Force Gunner's Hit man skill.$"/>
+		<msg id="skill_desc0701" cont="Power gained from Cube"/>
+		<msg id="skill_desc0702" cont="Power gained from Cube"/>
+		<msg id="skill_desc0703" cont="Power gained from Cube"/>
+		<msg id="skill_desc0704" cont="Cube's Blessing given to the chosen one"/>
+		<msg id="skill_desc0705" cont="Cube's Blessing given to the chosen one"/>
+		<msg id="skill_desc0706" cont="Cube's Blessing given to the chosen one"/>
+		<msg id="skill_desc0707" cont="Cube's Blessing given to the chosen one"/>
+		<msg id="skill_desc0708" cont="Cube's Blessing given to the chosen one"/>
+		<msg id="skill_desc0709" cont="The flames I gazed upon is seeping to my body."/>
+		<msg id="skill_desc0710" cont="The flames I gazed upon is seeping to my body."/>
+		<msg id="skill_desc0711" cont="The flames I gazed upon is seeping to my body."/>
+		<msg id="skill_desc0712" cont="The flames I gazed upon is seeping to my body."/>
+		<msg id="skill_desc0713" cont="The flames I gazed upon is seeping to my body."/>
+		<msg id="skill_desc0714" cont="The flames I gazed upon is seeping to my body."/>
